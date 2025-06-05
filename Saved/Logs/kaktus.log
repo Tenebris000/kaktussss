@@ -4115,3 +4115,365 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.06.05-18.36.23:107][930]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/content/models/enemych/enemyfbx_1_.enemyfbx_1_
 [2025.06.05-18.36.23:107][930]LogContentValidation: Display: Validating /Script/Engine.Material /Game/content/models/enemych/Material_001.Material_001
 [2025.06.05-18.36.25:137][ 75]LogViewport: Scene viewport resized to 2100x779, mode Windowed.
+[2025.06.05-18.37.55:344][406]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3149.951660
+[2025.06.05-18.37.55:505][420]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.05-18.37.55:505][420]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3150.100830, Update Interval: 308.012939
+[2025.06.05-18.38.14:896][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.06.05-18.38.14:900][ 36]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/content/maps/mainmap' took 0.062
+[2025.06.05-18.38.14:900][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/content/models/assets/minecartcoal/minecart_coal] ([1] browsable assets)...
+[2025.06.05-18.38.14:943][ 36]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/content/models/assets/minecartcoal/minecart_coal.minecart_coal]
+[2025.06.05-18.38.14:943][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/content/models/assets/minecartcoal/minecart_coal]
+[2025.06.05-18.38.14:958][ 36]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/content/models/assets/minecartcoal/minecart_coal_Auto2
+[2025.06.05-18.38.14:958][ 36]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/minecart_coal_Auto2A9F54F5147A770522599EDB65FE2C8C9.tmp' to '../../../../../projekt/kaktussss/Saved/Autosaves/Game/content/models/assets/minecartcoal/minecart_coal_Auto2.uasset'
+[2025.06.05-18.38.14:959][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/content/models/assets/minecartcoal/Material_001] ([1] browsable assets)...
+[2025.06.05-18.38.15:830][ 36]LogShaderCompilers: Display: ================================================
+[2025.06.05-18.38.15:830][ 36]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.06.05-18.38.15:830][ 36]LogShaderCompilers: Display: Total job queries 311, among them cache hits 132 (42.44%)
+[2025.06.05-18.38.15:830][ 36]LogShaderCompilers: Display: Tracking 89 distinct input hashes that result in 48 distinct outputs (53.93%)
+[2025.06.05-18.38.15:830][ 36]LogShaderCompilers: Display: RAM used: 2,07 MiB of 1,60 GiB budget. Usage: 0.13%
+[2025.06.05-18.38.15:830][ 36]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.06.05-18.38.15:830][ 36]LogShaderCompilers: Display: Shaders Compiled: 26
+[2025.06.05-18.38.15:830][ 36]LogShaderCompilers: Display: Jobs assigned 26, completed 26 (100%)
+[2025.06.05-18.38.15:830][ 36]LogShaderCompilers: Display: Average time worker was idle: 375.93 s
+[2025.06.05-18.38.15:830][ 36]LogShaderCompilers: Display: Time job spent in pending queue: average 0.33 s, longest 1.31 s
+[2025.06.05-18.38.15:830][ 36]LogShaderCompilers: Display: Job execution time: average 0.67 s, max 1.24 s
+[2025.06.05-18.38.15:830][ 36]LogShaderCompilers: Display: Job life time (pending + execution): average 1.00 s, max 1.62
+[2025.06.05-18.38.15:830][ 36]LogShaderCompilers: Display: Shader code size: average 42,429 KiB, min 3,699 KiB, max 60,766 KiB
+[2025.06.05-18.38.15:830][ 36]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.21 s
+[2025.06.05-18.38.15:830][ 36]LogShaderCompilers: Display: Jobs were issued in 26 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.06.05-18.38.15:830][ 36]LogShaderCompilers: Display: Average processing rate: 8.09 jobs/sec
+[2025.06.05-18.38.15:830][ 36]LogShaderCompilers: Display: Total thread time: 6,817 s
+[2025.06.05-18.38.15:830][ 36]LogShaderCompilers: Display: Total thread preprocess time: 0,664 s
+[2025.06.05-18.38.15:830][ 36]LogShaderCompilers: Display: Percentage time preprocessing: 9.75%
+[2025.06.05-18.38.15:830][ 36]LogShaderCompilers: Display: Effective parallelization: 2.12 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.06.05-18.38.15:830][ 36]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.06.05-18.38.15:830][ 36]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.32 sec, max 0.33 sec, min 0.31 sec)
+[2025.06.05-18.38.15:830][ 36]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.31 sec, max 0.33 sec, min 0.28 sec)
+[2025.06.05-18.38.15:830][ 36]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 0.30 sec, max 0.32 sec, min 0.29 sec)
+[2025.06.05-18.38.15:830][ 36]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 0.30 sec, max 0.30 sec, min 0.29 sec)
+[2025.06.05-18.38.15:830][ 36]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.29 sec, max 0.30 sec, min 0.27 sec)
+[2025.06.05-18.38.15:830][ 36]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.06.05-18.38.15:830][ 36]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 9.39% of total time (compiled    2 times, average 0.32 sec, max 0.33 sec, min 0.31 sec)
+[2025.06.05-18.38.15:830][ 36]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 8.95% of total time (compiled    2 times, average 0.31 sec, max 0.33 sec, min 0.28 sec)
+[2025.06.05-18.38.15:830][ 36]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 8.86% of total time (compiled    2 times, average 0.30 sec, max 0.32 sec, min 0.29 sec)
+[2025.06.05-18.38.15:830][ 36]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 8.70% of total time (compiled    2 times, average 0.30 sec, max 0.30 sec, min 0.29 sec)
+[2025.06.05-18.38.15:830][ 36]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 8.41% of total time (compiled    2 times, average 0.29 sec, max 0.30 sec, min 0.27 sec)
+[2025.06.05-18.38.15:830][ 36]LogShaderCompilers: Display: ================================================
+[2025.06.05-18.38.15:837][ 36]OBJ SavePackage:     Rendered thumbnail for [Material /Game/content/models/assets/minecartcoal/Material_001.Material_001]
+[2025.06.05-18.38.15:837][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/content/models/assets/minecartcoal/Material_001]
+[2025.06.05-18.38.15:841][ 36]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/content/models/assets/minecartcoal/Material_001_Auto2
+[2025.06.05-18.38.15:841][ 36]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/Material_001_Auto2FBB3001E45585937EF1C13892797F2B3.tmp' to '../../../../../projekt/kaktussss/Saved/Autosaves/Game/content/models/assets/minecartcoal/Material_001_Auto2.uasset'
+[2025.06.05-18.38.15:841][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/content/models/assets/minecartcoal/Material_002] ([1] browsable assets)...
+[2025.06.05-18.38.15:863][ 36]OBJ SavePackage:     Rendered thumbnail for [Material /Game/content/models/assets/minecartcoal/Material_002.Material_002]
+[2025.06.05-18.38.15:863][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/content/models/assets/minecartcoal/Material_002]
+[2025.06.05-18.38.15:869][ 36]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/content/models/assets/minecartcoal/Material_002_Auto2
+[2025.06.05-18.38.15:869][ 36]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/Material_002_Auto2F5714F94427E3C64B6252CA46B57DE12.tmp' to '../../../../../projekt/kaktussss/Saved/Autosaves/Game/content/models/assets/minecartcoal/Material_002_Auto2.uasset'
+[2025.06.05-18.38.15:870][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/content/models/assets/minecartcoal/Material] ([1] browsable assets)...
+[2025.06.05-18.38.15:891][ 36]OBJ SavePackage:     Rendered thumbnail for [Material /Game/content/models/assets/minecartcoal/Material.Material]
+[2025.06.05-18.38.15:891][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/content/models/assets/minecartcoal/Material]
+[2025.06.05-18.38.15:895][ 36]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/content/models/assets/minecartcoal/Material_Auto2
+[2025.06.05-18.38.15:895][ 36]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/Material_Auto2C33A44BB408E38A9E1F7B18064719A5A.tmp' to '../../../../../projekt/kaktussss/Saved/Autosaves/Game/content/models/assets/minecartcoal/Material_Auto2.uasset'
+[2025.06.05-18.38.15:896][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/content/models/assets/minecartcoal/minecart_coal_Skeleton] ([1] browsable assets)...
+[2025.06.05-18.38.15:902][ 36]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/content/models/assets/minecartcoal/minecart_coal_Skeleton.minecart_coal_Skeleton]
+[2025.06.05-18.38.15:902][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/content/models/assets/minecartcoal/minecart_coal_Skeleton]
+[2025.06.05-18.38.15:906][ 36]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/content/models/assets/minecartcoal/minecart_coal_Skeleton_Auto2
+[2025.06.05-18.38.15:906][ 36]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/minecart_coal_Skeleton_Auto25E0E8FC84F50DB39E82A158D25FBF385.tmp' to '../../../../../projekt/kaktussss/Saved/Autosaves/Game/content/models/assets/minecartcoal/minecart_coal_Skeleton_Auto2.uasset'
+[2025.06.05-18.38.15:907][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/content/models/assets/minecartcoal/minecart_coal_PhysicsAsset] ([1] browsable assets)...
+[2025.06.05-18.38.15:913][ 36]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/content/models/assets/minecartcoal/minecart_coal_PhysicsAsset.minecart_coal_PhysicsAsset]
+[2025.06.05-18.38.15:913][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/content/models/assets/minecartcoal/minecart_coal_PhysicsAsset]
+[2025.06.05-18.38.15:916][ 36]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/content/models/assets/minecartcoal/minecart_coal_PhysicsAsset_Auto2
+[2025.06.05-18.38.15:916][ 36]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/minecart_coal_PhysicsAsset_Auto2662520894C9B76CDBF636CBCF018029F.tmp' to '../../../../../projekt/kaktussss/Saved/Autosaves/Game/content/models/assets/minecartcoal/minecart_coal_PhysicsAsset_Auto2.uasset'
+[2025.06.05-18.38.15:917][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_1Action] ([1] browsable assets)...
+[2025.06.05-18.38.15:923][ 36]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_1Action.minecart_coal_Anim_wózek_coal_1Action]
+[2025.06.05-18.38.15:923][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_1Action]
+[2025.06.05-18.38.15:929][ 36]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_1Action_Auto2
+[2025.06.05-18.38.15:929][ 36]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/minecart_coal_Anim_wózek_coal_1A4AB884FE4CF3BAEE8691DFB277F29E73.tmp' to '../../../../../projekt/kaktussss/Saved/Autosaves/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_1Action_Auto2.uasset'
+[2025.06.05-18.38.15:930][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_3Action] ([1] browsable assets)...
+[2025.06.05-18.38.15:936][ 36]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_3Action.minecart_coal_Anim_wózek_coal_3Action]
+[2025.06.05-18.38.15:936][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_3Action]
+[2025.06.05-18.38.15:941][ 36]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_3Action_Auto2
+[2025.06.05-18.38.15:941][ 36]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/minecart_coal_Anim_wózek_coal_3A84BAC9324BE4C8362A82EDA4A594AE6C.tmp' to '../../../../../projekt/kaktussss/Saved/Autosaves/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_3Action_Auto2.uasset'
+[2025.06.05-18.38.15:942][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_4Action] ([1] browsable assets)...
+[2025.06.05-18.38.15:948][ 36]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_4Action.minecart_coal_Anim_wózek_coal_4Action]
+[2025.06.05-18.38.15:948][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_4Action]
+[2025.06.05-18.38.15:953][ 36]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_4Action_Auto2
+[2025.06.05-18.38.15:953][ 36]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/minecart_coal_Anim_wózek_coal_4A36A8DDBB4701A099715866B7935D4D5E.tmp' to '../../../../../projekt/kaktussss/Saved/Autosaves/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_4Action_Auto2.uasset'
+[2025.06.05-18.38.15:954][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_5Action] ([1] browsable assets)...
+[2025.06.05-18.38.15:960][ 36]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_5Action.minecart_coal_Anim_wózek_coal_5Action]
+[2025.06.05-18.38.15:960][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_5Action]
+[2025.06.05-18.38.15:965][ 36]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_5Action_Auto2
+[2025.06.05-18.38.15:965][ 36]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/minecart_coal_Anim_wózek_coal_5AE9086E3644A1945EA5AEBE8D2C708CC6.tmp' to '../../../../../projekt/kaktussss/Saved/Autosaves/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_5Action_Auto2.uasset'
+[2025.06.05-18.38.15:966][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_6Action] ([1] browsable assets)...
+[2025.06.05-18.38.15:972][ 36]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_6Action.minecart_coal_Anim_wózek_coal_6Action]
+[2025.06.05-18.38.15:972][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_6Action]
+[2025.06.05-18.38.15:977][ 36]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_6Action_Auto2
+[2025.06.05-18.38.15:977][ 36]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/minecart_coal_Anim_wózek_coal_6A054CEB764B33EB34C2DCB3AA4AFF1F3F.tmp' to '../../../../../projekt/kaktussss/Saved/Autosaves/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_6Action_Auto2.uasset'
+[2025.06.05-18.38.15:978][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_7Action] ([1] browsable assets)...
+[2025.06.05-18.38.15:984][ 36]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_7Action.minecart_coal_Anim_wózek_coal_7Action]
+[2025.06.05-18.38.15:984][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_7Action]
+[2025.06.05-18.38.15:989][ 36]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_7Action_Auto2
+[2025.06.05-18.38.15:989][ 36]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/minecart_coal_Anim_wózek_coal_7A3E23492349D3663A9020ACA9489E517F.tmp' to '../../../../../projekt/kaktussss/Saved/Autosaves/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_7Action_Auto2.uasset'
+[2025.06.05-18.38.15:990][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_8Action] ([1] browsable assets)...
+[2025.06.05-18.38.15:997][ 36]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_8Action.minecart_coal_Anim_wózek_coal_8Action]
+[2025.06.05-18.38.15:997][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_8Action]
+[2025.06.05-18.38.16:002][ 36]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_8Action_Auto2
+[2025.06.05-18.38.16:002][ 36]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/minecart_coal_Anim_wózek_coal_8A4B9B31FA44DEA2008DC03DB9138E5D35.tmp' to '../../../../../projekt/kaktussss/Saved/Autosaves/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_8Action_Auto2.uasset'
+[2025.06.05-18.38.16:003][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_kupaAction] ([1] browsable assets)...
+[2025.06.05-18.38.16:010][ 36]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_kupaAction.minecart_coal_Anim_wózek_coal_kupaAction]
+[2025.06.05-18.38.16:010][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_kupaAction]
+[2025.06.05-18.38.16:015][ 36]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_kupaAction_Auto2
+[2025.06.05-18.38.16:015][ 36]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/minecart_coal_Anim_wózek_coal_ku9727BFE0496E2556884347B48E1CCA5A.tmp' to '../../../../../projekt/kaktussss/Saved/Autosaves/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_kupaAction_Auto2.uasset'
+[2025.06.05-18.38.16:016][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal2Action] ([1] browsable assets)...
+[2025.06.05-18.38.16:022][ 36]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal2Action.minecart_coal_Anim_wózek_coal2Action]
+[2025.06.05-18.38.16:022][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal2Action]
+[2025.06.05-18.38.16:028][ 36]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal2Action_Auto2
+[2025.06.05-18.38.16:028][ 36]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/minecart_coal_Anim_wózek_coal2Ac780E5B1341AD9B2FCE2389B6E298DDFD.tmp' to '../../../../../projekt/kaktussss/Saved/Autosaves/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal2Action_Auto2.uasset'
+[2025.06.05-18.38.16:029][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_kółko_001Action] ([1] browsable assets)...
+[2025.06.05-18.38.16:036][ 36]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_kółko_001Action.minecart_coal_Anim_wózek_kółko_001Action]
+[2025.06.05-18.38.16:036][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_kółko_001Action]
+[2025.06.05-18.38.16:041][ 36]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_kółko_001Action_Auto2
+[2025.06.05-18.38.16:041][ 36]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/minecart_coal_Anim_wózek_kółko_097609A8145A7DC3606D8A49D1D64BD13.tmp' to '../../../../../projekt/kaktussss/Saved/Autosaves/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_kółko_001Action_Auto2.uasset'
+[2025.06.05-18.38.16:042][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_kółko_002Action] ([1] browsable assets)...
+[2025.06.05-18.38.16:048][ 36]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_kółko_002Action.minecart_coal_Anim_wózek_kółko_002Action]
+[2025.06.05-18.38.16:048][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_kółko_002Action]
+[2025.06.05-18.38.16:053][ 36]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_kółko_002Action_Auto2
+[2025.06.05-18.38.16:053][ 36]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/minecart_coal_Anim_wózek_kółko_024E6822B41B11BD57193E08DE2E15B84.tmp' to '../../../../../projekt/kaktussss/Saved/Autosaves/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_kółko_002Action_Auto2.uasset'
+[2025.06.05-18.38.16:054][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_kółko_003Action] ([1] browsable assets)...
+[2025.06.05-18.38.16:060][ 36]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_kółko_003Action.minecart_coal_Anim_wózek_kółko_003Action]
+[2025.06.05-18.38.16:060][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_kółko_003Action]
+[2025.06.05-18.38.16:067][ 36]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_kółko_003Action_Auto2
+[2025.06.05-18.38.16:067][ 36]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/minecart_coal_Anim_wózek_kółko_02C3333BD422E87D0FC1F92AD087662F7.tmp' to '../../../../../projekt/kaktussss/Saved/Autosaves/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_kółko_003Action_Auto2.uasset'
+[2025.06.05-18.38.16:068][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_kółko_004Action] ([1] browsable assets)...
+[2025.06.05-18.38.16:074][ 36]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_kółko_004Action.minecart_coal_Anim_wózek_kółko_004Action]
+[2025.06.05-18.38.16:074][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_kółko_004Action]
+[2025.06.05-18.38.16:111][ 36]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_kółko_004Action_Auto2
+[2025.06.05-18.38.16:111][ 36]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/minecart_coal_Anim_wózek_kółko_08D2BDC184A5E5615E48D9C9B5802D3AB.tmp' to '../../../../../projekt/kaktussss/Saved/Autosaves/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_kółko_004Action_Auto2.uasset'
+[2025.06.05-18.38.16:112][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_ramaAction] ([1] browsable assets)...
+[2025.06.05-18.38.16:118][ 36]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_ramaAction.minecart_coal_Anim_wózek_ramaAction]
+[2025.06.05-18.38.16:118][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_ramaAction]
+[2025.06.05-18.38.16:124][ 36]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_ramaAction_Auto2
+[2025.06.05-18.38.16:124][ 36]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/minecart_coal_Anim_wózek_ramaAct2DDBB7A143EF8068C6AE7CBD0C563C06.tmp' to '../../../../../projekt/kaktussss/Saved/Autosaves/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_ramaAction_Auto2.uasset'
+[2025.06.05-18.38.16:125][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_wózekAction] ([1] browsable assets)...
+[2025.06.05-18.38.16:131][ 36]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_wózekAction.minecart_coal_Anim_wózek_wózekAction]
+[2025.06.05-18.38.16:131][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_wózekAction]
+[2025.06.05-18.38.16:136][ 36]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_wózekAction_Auto2
+[2025.06.05-18.38.16:136][ 36]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/minecart_coal_Anim_wózek_wózekAc3098E1CC4E71B9BCAC86928E67242521.tmp' to '../../../../../projekt/kaktussss/Saved/Autosaves/Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_wózekAction_Auto2.uasset'
+[2025.06.05-18.38.16:137][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/content/models/assets/miczyk/mieczyk] ([1] browsable assets)...
+[2025.06.05-18.38.16:144][ 36]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/content/models/assets/miczyk/mieczyk.mieczyk]
+[2025.06.05-18.38.16:144][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/content/models/assets/miczyk/mieczyk]
+[2025.06.05-18.38.16:150][ 36]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/content/models/assets/miczyk/mieczyk_Auto2
+[2025.06.05-18.38.16:150][ 36]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/mieczyk_Auto24892801845DE6D737A7AAA8348963117.tmp' to '../../../../../projekt/kaktussss/Saved/Autosaves/Game/content/models/assets/miczyk/mieczyk_Auto2.uasset'
+[2025.06.05-18.38.16:151][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/content/models/assets/miczyk/Material_001] ([1] browsable assets)...
+[2025.06.05-18.38.16:168][ 36]OBJ SavePackage:     Rendered thumbnail for [Material /Game/content/models/assets/miczyk/Material_001.Material_001]
+[2025.06.05-18.38.16:168][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/content/models/assets/miczyk/Material_001]
+[2025.06.05-18.38.16:172][ 36]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/content/models/assets/miczyk/Material_001_Auto2
+[2025.06.05-18.38.16:172][ 36]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/Material_001_Auto2183CF2E94E4E8BBE504949B5BF560300.tmp' to '../../../../../projekt/kaktussss/Saved/Autosaves/Game/content/models/assets/miczyk/Material_001_Auto2.uasset'
+[2025.06.05-18.38.16:172][ 36]LogFileHelpers: Auto-saving content packages took 1.272
+[2025.06.05-18.39.51:723][208]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-18.39.51:723][208]LogBlueprintUserMessages: [DMsystem] 0.1
+[2025.06.05-18.40.01:047][751]BlueprintLog: New page: Compile shotgunai
+[2025.06.05-18.40.01:185][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.06.05-18.40.01:875][772]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.05-18.40.01:983][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/AI/shotgun/shotgunai" FILE="../../../../../projekt/kaktussss/Content/content/AI/shotgun/shotgunai.uasset" SILENT=true
+[2025.06.05-18.40.01:996][772]LogSavePackage: Moving output files for package: /Game/content/AI/shotgun/shotgunai
+[2025.06.05-18.40.01:996][772]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/shotgunai80B865B546D786A1B946449A64EE8AC3.tmp' to '../../../../../projekt/kaktussss/Content/content/AI/shotgun/shotgunai.uasset'
+[2025.06.05-18.40.02:004][772]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 6.40 sec)
+[2025.06.05-18.40.02:005][772]AssetCheck: New page: Asset Save: shotgunai
+[2025.06.05-18.40.02:005][772]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/content/AI/shotgun/shotgunai.shotgunai
+[2025.06.05-18.40.06:351][ 64]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/content/AI/shotgun/shotguncontrol.shotguncontrol
+[2025.06.05-18.40.06:352][ 64]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.06.05-18.40.06:352][ 64]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.06.05-18.40.14:608][590]BlueprintLog: New page: Compile shotguncontrol
+[2025.06.05-18.40.14:642][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.06.05-18.40.15:401][633]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.05-18.40.15:447][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/AI/shotgun/shotguncontrol" FILE="../../../../../projekt/kaktussss/Content/content/AI/shotgun/shotguncontrol.uasset" SILENT=true
+[2025.06.05-18.40.15:459][633]LogSavePackage: Moving output files for package: /Game/content/AI/shotgun/shotguncontrol
+[2025.06.05-18.40.15:459][633]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/shotguncontrolC512D43741EE5B26F4B5FB9E0D839B4E.tmp' to '../../../../../projekt/kaktussss/Content/content/AI/shotgun/shotguncontrol.uasset'
+[2025.06.05-18.40.15:466][633]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 6.46 sec)
+[2025.06.05-18.40.15:467][633]AssetCheck: New page: Asset Save: shotguncontrol
+[2025.06.05-18.40.15:467][633]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/content/AI/shotgun/shotguncontrol.shotguncontrol
+[2025.06.05-18.40.18:637][858]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/content/AI/shotgun/shotgun.shotgun
+[2025.06.05-18.40.38:270][318]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/content/AI/shotgun/shotgunshot.shotgunshot
+[2025.06.05-18.40.38:270][318]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.06.05-18.40.38:270][318]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.06.05-18.42.01:116][243]BlueprintLog: New page: Compile shotgunshot
+[2025.06.05-18.42.01:148][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.06.05-18.42.01:654][274]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.05-18.42.01:700][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/AI/shotgun/shotgunshot" FILE="../../../../../projekt/kaktussss/Content/content/AI/shotgun/shotgunshot.uasset" SILENT=true
+[2025.06.05-18.42.01:709][274]LogSavePackage: Moving output files for package: /Game/content/AI/shotgun/shotgunshot
+[2025.06.05-18.42.01:709][274]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/shotgunshot9283D72A4897841A651DBA8A02DA3D4D.tmp' to '../../../../../projekt/kaktussss/Content/content/AI/shotgun/shotgunshot.uasset'
+[2025.06.05-18.42.01:717][274]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 6.52 sec)
+[2025.06.05-18.42.01:718][274]AssetCheck: New page: Asset Save: shotgunshot
+[2025.06.05-18.42.01:718][274]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/content/AI/shotgun/shotgunshot.shotgunshot
+[2025.06.05-18.42.11:929][  0]LogViewport: Scene viewport resized to 1196x979, mode Windowed.
+[2025.06.05-18.42.13:579][102]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-18.42.13:579][102]LogBlueprintUserMessages: [DMsystem] 0.1
+[2025.06.05-18.42.26:423][ 17]Cmd: DELETE
+[2025.06.05-18.42.26:423][ 17]Cmd: ACTOR DELETE
+[2025.06.05-18.42.26:433][ 17]LogEditorActor: Deleted Actor: PlayerStart
+[2025.06.05-18.42.26:450][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.06.05-18.42.26:453][ 17]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2025.06.05-18.42.30:197][305]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/content/AI/shotgun/shotgunai.shotgunai_C
+[2025.06.05-18.42.30:197][305]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/content/AI/shotgun/shotgunai.shotgunai_C
+[2025.06.05-18.42.30:207][305]LogActorFactory: Actor Factory spawned Blueprint /Game/content/AI/shotgun/shotgunai.shotgunai as actor: shotgunai_C /Game/content/maps/mainmap.mainmap:PersistentLevel.shotgunai_C_0
+[2025.06.05-18.42.30:211][305]LogActorFactory: Actor Factory spawned Blueprint /Game/content/AI/shotgun/shotgunai.shotgunai as actor: shotgunai_C /Game/content/maps/mainmap.mainmap:PersistentLevel.shotgunai_C_0
+[2025.06.05-18.42.30:302][308]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/content/AI/shotgun/shotgunai.shotgunai_C
+[2025.06.05-18.42.30:302][308]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/content/AI/shotgun/shotgunai.shotgunai_C
+[2025.06.05-18.42.30:314][308]LogActorFactory: Actor Factory spawned Blueprint /Game/content/AI/shotgun/shotgunai.shotgunai as actor: shotgunai_C /Game/content/maps/mainmap.mainmap:PersistentLevel.shotgunai_C_1
+[2025.06.05-18.42.30:319][308]LogActorFactory: Actor Factory spawned Blueprint /Game/content/AI/shotgun/shotgunai.shotgunai as actor: shotgunai_C /Game/content/maps/mainmap.mainmap:PersistentLevel.shotgunai_C_1
+[2025.06.05-18.42.31:704][401]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.05-18.42.31:737][401]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.05-18.42.31:737][401]PIE: New page: PIE session: mainmap (5 cze 2025, 22:42:31)
+[2025.06.05-18.42.31:764][401]LogPlayLevel: Creating play world package: /Game/content/maps/UEDPIE_0_mainmap
+[2025.06.05-18.42.31:779][401]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014489s)
+[2025.06.05-18.42.31:779][401]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/content/maps/mainmap.mainmap to /Game/content/maps/UEDPIE_0_mainmap.mainmap (0.014525s)
+[2025.06.05-18.42.31:796][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.06.05-18.42.31:798][401]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.06.05-18.42.31:799][401]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.06.05-18.42.31:799][401]LogAIModule: Creating AISystem for world mainmap
+[2025.06.05-18.42.31:799][401]LogPlayLevel: PIE: World Init took: (0.001006s)
+[2025.06.05-18.42.31:799][401]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.06.05-18.42.31:799][401]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.05-18.42.31:799][401]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.05-18.42.31:799][401]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.05-18.42.31:799][401]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.05-18.42.31:799][401]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.05-18.42.31:799][401]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.05-18.42.31:800][401]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.05-18.42.31:800][401]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.05-18.42.31:800][401]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.05-18.42.31:800][401]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.05-18.42.31:800][401]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.05-18.42.31:802][401]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.05-18.42.31:826][401]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2025.06.05-18.42.31:826][401]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.05-18.42.31:826][401]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.05-18.42.31:826][401]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.05-18.42.31:827][401]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.06.05-18.42.31:827][401]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.06.05-18.42.31:829][401]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.06.05-18.42.31:829][401]LogInit: FAudioDevice initialized with ID 16.
+[2025.06.05-18.42.31:829][401]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.06.05-18.42.31:829][401]LogAudio: Display: Audio Device (ID: 16) registered with world 'mainmap'.
+[2025.06.05-18.42.31:829][401]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.06.05-18.42.31:831][401]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.06.05-18.42.31:851][401]LogWorld: Bringing World /Game/content/maps/UEDPIE_0_mainmap.mainmap up for play (max tick rate 0) at 2025.06.05-20.42.31
+[2025.06.05-18.42.31:853][401]LogWorld: Bringing up level for play took: 0.021074
+[2025.06.05-18.42.31:855][401]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2025.06.05-18.42.31:858][401]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-18.42.31:858][401]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-18.42.31:858][401]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-18.42.31:858][401]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-18.42.31:858][401]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-18.42.31:858][401]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-18.42.31:858][401]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-18.42.31:858][401]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-18.42.31:858][401]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-18.42.31:858][401]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-18.42.31:858][401]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-18.42.31:858][401]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-18.42.31:858][401]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-18.42.31:858][401]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-18.42.31:859][401]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-18.42.31:859][401]LogBlueprintUserMessages: [DMsystem] 0.1
+[2025.06.05-18.42.31:859][401]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-18.42.31:859][401]LogBlueprintUserMessages: [DMsystem] 0.1
+[2025.06.05-18.42.31:859][401]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-18.42.31:859][401]LogBlueprintUserMessages: [DMsystem] 0.1
+[2025.06.05-18.42.31:859][401]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-18.42.31:860][401]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-18.42.31:860][401]LogBlueprintUserMessages: [DMsystem] 0.1
+[2025.06.05-18.42.31:860][401]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-18.42.31:862][401]LogBlueprintUserMessages: [USERINTERFACE_C_0] 0
+[2025.06.05-18.42.31:862][401]LogBlueprintUserMessages: [USERINTERFACE_C_0] niema
+[2025.06.05-18.42.31:862][401]PIE: Server logged in
+[2025.06.05-18.42.31:862][401]PIE: Play in editor total start time 0,149 seconds.
+[2025.06.05-18.42.31:898][402]LogBlueprintUserMessages: [movetorandomlocation_C_2] movmentproblem
+[2025.06.05-18.42.34:705][604]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-18.42.34:705][604]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-18.42.34:706][604]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-18.42.34:894][619]LogBlueprintUserMessages: [DMsystem] 0.9
+[2025.06.05-18.42.37:351][817]LogBlueprintUserMessages: [movetorandomlocation_C_2] movmentproblem
+[2025.06.05-18.42.37:722][847]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-18.42.37:722][847]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-18.42.37:722][847]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-18.42.38:154][881]LogBlueprintUserMessages: [DMsystem] 0.8
+[2025.06.05-18.42.38:853][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.05-18.42.38:853][934]LogWorld: BeginTearingDown for /Game/content/maps/UEDPIE_0_mainmap
+[2025.06.05-18.42.38:853][934]LogWorld: UWorld::CleanupWorld for mainmap, bSessionEnded=true, bCleanupResources=true
+[2025.06.05-18.42.38:854][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.05-18.42.38:860][934]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.05-18.42.38:866][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.05-18.42.38:881][934]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.06.05-18.42.38:882][934]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.06.05-18.42.38:882][934]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.06.05-18.42.38:884][934]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.06.05-18.42.38:888][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.05-18.42.38:894][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.06.05-18.42.39:027][935]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2025.06.05-18.43.36:381][251]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3490.991699
+[2025.06.05-18.43.37:382][254]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.05-18.43.37:382][254]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3491.658447, Update Interval: 305.608704
+[2025.06.05-18.46.16:752][839]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\student\Documents\tykogóramiecza.fbx)
+[2025.06.05-18.46.16:757][839]LogFbx: Loading FBX Scene from C:\Users\student\Documents\tykogóramiecza.fbx
+[2025.06.05-18.46.16:761][839]LogFbx: FBX Scene Loaded Succesfully
+[2025.06.05-18.46.19:465][839]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.06.05-18.46.19:543][839]LogFbx: Display: Triangulating static mesh Cube.001
+[2025.06.05-18.46.19:554][839]LogStaticMesh: Display: Building static mesh tykogóramiecza...
+[2025.06.05-18.46.19:564][839]LogStaticMesh: Built static mesh [0.01s] /Game/content/models/assets/miczyk/tykogóramiecza.tykogóramiecza
+[2025.06.05-18.46.19:565][839]LogStaticMesh: Warning: tykogóramiecza has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2025.06.05-18.46.19:565][839]LogStaticMesh: Warning: tykogóramiecza has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.06.05-18.46.19:585][839]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2025.06.05-18.46.19:585][839]FBXImport: Warning: tykogóramiecza has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2025.06.05-18.46.19:585][839]FBXImport: Warning: tykogóramiecza has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2025.06.05-18.46.19:664][839]LogAutomationController: Ignoring very large delta of 2.92 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.06.05-18.46.22:116][ 16]LogSlate: Window 'Message Log' being destroyed
+[2025.06.05-18.46.22:132][ 16]LogSlate: Window 'Message Log' being destroyed
+[2025.06.05-18.46.28:876][589]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.05-18.46.28:957][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/models/assets/miczyk/tykogóramiecza" FILE="../../../../../projekt/kaktussss/Content/content/models/assets/miczyk/tykogóramiecza.uasset" SILENT=true
+[2025.06.05-18.46.28:963][589]LogSavePackage: Moving output files for package: /Game/content/models/assets/miczyk/tykogóramiecza
+[2025.06.05-18.46.28:963][589]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/tykogóramieczaBA839B3346FC25C9B15A4F9813EEDE7D.tmp' to '../../../../../projekt/kaktussss/Content/content/models/assets/miczyk/tykogóramiecza.uasset'
+[2025.06.05-18.46.28:964][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/models/assets/miczyk/mieczyk" FILE="../../../../../projekt/kaktussss/Content/content/models/assets/miczyk/mieczyk.uasset" SILENT=true
+[2025.06.05-18.46.28:969][589]LogSavePackage: Moving output files for package: /Game/content/models/assets/miczyk/mieczyk
+[2025.06.05-18.46.28:969][589]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/mieczyk1342E8FC43584A2619D270B54E387B6B.tmp' to '../../../../../projekt/kaktussss/Content/content/models/assets/miczyk/mieczyk.uasset'
+[2025.06.05-18.46.28:970][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/models/assets/miczyk/Material_001" FILE="../../../../../projekt/kaktussss/Content/content/models/assets/miczyk/Material_001.uasset" SILENT=true
+[2025.06.05-18.46.28:974][589]LogSavePackage: Moving output files for package: /Game/content/models/assets/miczyk/Material_001
+[2025.06.05-18.46.28:974][589]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/Material_001A4E35B46421C9085A165D79FB2AECA1E.tmp' to '../../../../../projekt/kaktussss/Content/content/models/assets/miczyk/Material_001.uasset'
+[2025.06.05-18.46.28:983][589]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 6.63 sec)
+[2025.06.05-18.46.28:983][589]AssetCheck: New page: Asset Save: multiple assets
+[2025.06.05-18.46.28:983][589]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/content/models/assets/miczyk/tykogóramiecza.tykogóramiecza
+[2025.06.05-18.46.28:983][589]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/content/models/assets/miczyk/mieczyk.mieczyk
+[2025.06.05-18.46.28:983][589]LogContentValidation: Display: Validating /Script/Engine.Material /Game/content/models/assets/miczyk/Material_001.Material_001
+[2025.06.05-18.46.51:282][432]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/content/efektyspecjalne/test.test
+[2025.06.05-18.46.52:229][432]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.06.05-18.46.52:229][432]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.06.05-18.46.52:417][432]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.06.05-18.46.52:417][432]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.06.05-18.46.52:656][432]LogViewport: Scene viewport resized to 505x603, mode Windowed.
+[2025.06.05-18.46.53:191][439]50820_test_MessageLog: System successfully compiled.
+[2025.06.05-18.47.01:681][929]LogViewport: Scene viewport resized to 1196x979, mode Windowed.
+[2025.06.05-18.47.26:137][247]LogDerivedDataCache: C:/Users/student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.161 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3224 files in 4791 folders with total size 156 MiB.
+[2025.06.05-18.47.33:857][667]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/CHAR/MAIN_CHARACTER1.MAIN_CHARACTER1
+[2025.06.05-18.47.33:867][667]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.06.05-18.47.33:867][667]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.06.05-18.47.33:894][667]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.06.05-18.47.34:342][667]LogViewport: Scene viewport resized to 1910x1226, mode Windowed.
+[2025.06.05-18.47.37:453][847]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/CHAR/MAIN_CHARACTER1_Skeleton.MAIN_CHARACTER1_Skeleton
+[2025.06.05-18.47.37:454][847]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.06.05-18.47.37:454][847]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.06.05-18.47.37:470][847]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.06.05-18.47.37:714][847]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.06.05-18.47.37:714][847]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.06.05-18.47.37:978][847]LogViewport: Scene viewport resized to 1433x1226, mode Windowed.
+[2025.06.05-18.49.42:612][206]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3857.220459
+[2025.06.05-18.49.42:796][217]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.05-18.49.42:796][217]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3857.387207, Update Interval: 358.469177
+[2025.06.05-18.56.32:473][846]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4267.053223
+[2025.06.05-18.56.32:655][857]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.05-18.56.32:655][857]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4267.218262, Update Interval: 356.341431
+[2025.06.05-19.03.05:554][437]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4660.000977
+[2025.06.05-19.03.05:717][447]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.05-19.03.05:717][447]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4660.147461, Update Interval: 347.229828
+[2025.06.05-19.09.27:151][287]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5041.477051
+[2025.06.05-19.09.27:321][297]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.05-19.09.27:321][297]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5041.630371, Update Interval: 304.334229
