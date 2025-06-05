@@ -3940,3 +3940,178 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.06.05-18.33.12:735][386]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 4.50 sec)
 [2025.06.05-18.33.12:736][386]AssetCheck: New page: Asset Save: shotgunai
 [2025.06.05-18.33.12:736][386]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/content/AI/shotgun/shotgunai.shotgunai
+[2025.06.05-18.33.57:916][990]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.06.05-18.33.57:978][991]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.06.05-18.34.02:880][385]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.06.05-18.34.02:905][385]LogContentBrowser: Creating deferred item: NewFolder
+[2025.06.05-18.34.02:916][386]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.06.05-18.34.09:679][968]LogContentBrowser: Attempting asset rename: NewFolder -> minecartcoal
+[2025.06.05-18.34.09:680][968]LogContentBrowser: End creating deferred item NewFolder
+[2025.06.05-18.34.57:633][248]LogViewport: Scene viewport resized to 1040x775, mode Windowed.
+[2025.06.05-18.34.58:867][321]LogViewport: Scene viewport resized to 1045x357, mode Windowed.
+[2025.06.05-18.34.59:300][321]LogViewport: Scene viewport resized to 1040x775, mode Windowed.
+[2025.06.05-18.35.03:242][573]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\student\Downloads\minecart_coal.fbx)
+[2025.06.05-18.35.03:415][573]LogFbx: Loading FBX Scene from C:\Users\student\Downloads\minecart_coal.fbx
+[2025.06.05-18.35.03:432][573]LogFbx: FBX Scene Loaded Succesfully
+[2025.06.05-18.35.05:835][573]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.06.05-18.35.06:835][573]LogMaterial: Display: Material /Game/content/models/assets/minecartcoal/Material_001.Material_001 needed to have new flag set bUsedWithSkeletalMesh !
+[2025.06.05-18.35.06:881][573]LogMaterial: Display: Material /Game/content/models/assets/minecartcoal/Material_002.Material_002 needed to have new flag set bUsedWithSkeletalMesh !
+[2025.06.05-18.35.06:914][573]LogMaterial: Display: Material /Game/content/models/assets/minecartcoal/Material.Material needed to have new flag set bUsedWithSkeletalMesh !
+[2025.06.05-18.35.06:944][573]LogFbx: Triangulating skeletal mesh wózek
+[2025.06.05-18.35.07:061][573]LogFbx: Bones digested - 1  Depth of hierarchy - 1
+[2025.06.05-18.35.07:260][573]LogSkeletalMesh: Section 0: Material=0, 1270 triangles
+[2025.06.05-18.35.07:260][573]LogSkeletalMesh: Section 1: Material=1, 712 triangles
+[2025.06.05-18.35.07:260][573]LogSkeletalMesh: Section 2: Material=2, 2920 triangles
+[2025.06.05-18.35.07:276][573]LogSkeletalMesh: Building Skeletal Mesh minecart_coal...
+[2025.06.05-18.35.07:295][573]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (minecart_coal) ...
+[2025.06.05-18.35.07:395][573]LogSkeletalMesh: Built Skeletal Mesh [0.12s] /Game/content/models/assets/minecartcoal/minecart_coal.minecart_coal
+[2025.06.05-18.35.07:532][573]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.06.05-18.35.07:532][573]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.06.05-18.35.07:542][573]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_31:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2025.06.05-18.35.07:542][573]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2025.06.05-18.35.07:542][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.05-18.35.07:614][573]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.06.05-18.35.07:614][573]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.06.05-18.35.07:624][573]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2025.06.05-18.35.07:624][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.05-18.35.07:642][573]LogFbx: SortedLinks :(0) wózek
+[2025.06.05-18.35.07:642][573]LogFbx: SortedLinks :(0) wózek
+[2025.06.05-18.35.07:642][573]LogFbx: SortedLinks :(0) wózek
+[2025.06.05-18.35.07:642][573]LogFbx: SortedLinks :(0) wózek
+[2025.06.05-18.35.07:642][573]LogFbx: SortedLinks :(0) wózek
+[2025.06.05-18.35.07:642][573]LogFbx: SortedLinks :(0) wózek
+[2025.06.05-18.35.07:642][573]LogFbx: SortedLinks :(0) wózek
+[2025.06.05-18.35.07:642][573]LogFbx: SortedLinks :(0) wózek
+[2025.06.05-18.35.07:642][573]LogFbx: SortedLinks :(0) wózek
+[2025.06.05-18.35.07:642][573]LogFbx: SortedLinks :(0) wózek
+[2025.06.05-18.35.07:642][573]LogFbx: SortedLinks :(0) wózek
+[2025.06.05-18.35.07:642][573]LogFbx: SortedLinks :(0) wózek
+[2025.06.05-18.35.07:642][573]LogFbx: SortedLinks :(0) wózek
+[2025.06.05-18.35.07:642][573]LogFbx: SortedLinks :(0) wózek
+[2025.06.05-18.35.07:642][573]LogFbx: SortedLinks :(0) wózek
+[2025.06.05-18.35.07:643][573]LogFbx: Parsing AnimStack wózek|coal 1Action
+[2025.06.05-18.35.07:880][573]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_1Action.minecart_coal_Anim_wózek_coal_1Action
+[2025.06.05-18.35.07:881][573]LogAnimationCompression: Display: Storing compressed animation data for /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_1Action.minecart_coal_Anim_wózek_coal_1Action, at AnimationSequence/c27400ef09152ff52af423ed87dc19f67f0c27a1
+[2025.06.05-18.35.07:913][573]LogFbx: Parsing AnimStack wózek|coal 3Action
+[2025.06.05-18.35.08:054][573]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_3Action.minecart_coal_Anim_wózek_coal_3Action
+[2025.06.05-18.35.08:055][573]LogAnimationCompression: Display: Storing compressed animation data for /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_3Action.minecart_coal_Anim_wózek_coal_3Action, at AnimationSequence/6035e353b139e7f7e9429d739111b50e7196786d
+[2025.06.05-18.35.08:087][573]LogFbx: Parsing AnimStack wózek|coal 4Action
+[2025.06.05-18.35.08:221][573]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_4Action.minecart_coal_Anim_wózek_coal_4Action
+[2025.06.05-18.35.08:222][573]LogAnimationCompression: Display: Storing compressed animation data for /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_4Action.minecart_coal_Anim_wózek_coal_4Action, at AnimationSequence/c4363e17d498c32ec56b7974a9a33a440dc0dde2
+[2025.06.05-18.35.08:254][573]LogFbx: Parsing AnimStack wózek|coal 5Action
+[2025.06.05-18.35.08:405][573]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_5Action.minecart_coal_Anim_wózek_coal_5Action
+[2025.06.05-18.35.08:406][573]LogAnimationCompression: Display: Storing compressed animation data for /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_5Action.minecart_coal_Anim_wózek_coal_5Action, at AnimationSequence/72482dcaa5097fe4a819561e7ca8df13a419a323
+[2025.06.05-18.35.08:438][573]LogFbx: Parsing AnimStack wózek|coal 6Action
+[2025.06.05-18.35.08:589][573]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_6Action.minecart_coal_Anim_wózek_coal_6Action
+[2025.06.05-18.35.08:590][573]LogAnimationCompression: Display: Storing compressed animation data for /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_6Action.minecart_coal_Anim_wózek_coal_6Action, at AnimationSequence/2c067f7d2a148654f2e8c8d01ee47d96284f3be7
+[2025.06.05-18.35.08:624][573]LogFbx: Parsing AnimStack wózek|coal 7Action
+[2025.06.05-18.35.08:788][573]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_7Action.minecart_coal_Anim_wózek_coal_7Action
+[2025.06.05-18.35.08:788][573]LogAnimationCompression: Display: Storing compressed animation data for /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_7Action.minecart_coal_Anim_wózek_coal_7Action, at AnimationSequence/71031fa72a7072b357a480c46ade8e1a5280dce6
+[2025.06.05-18.35.08:823][573]LogFbx: Parsing AnimStack wózek|coal 8Action
+[2025.06.05-18.35.08:988][573]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_8Action.minecart_coal_Anim_wózek_coal_8Action
+[2025.06.05-18.35.08:989][573]LogAnimationCompression: Display: Storing compressed animation data for /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_8Action.minecart_coal_Anim_wózek_coal_8Action, at AnimationSequence/1da150f8f973d49a18e82918605f2177823d204b
+[2025.06.05-18.35.09:022][573]LogFbx: Parsing AnimStack wózek|coal kupaAction
+[2025.06.05-18.35.09:188][573]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_kupaAction.minecart_coal_Anim_wózek_coal_kupaAction
+[2025.06.05-18.35.09:188][573]LogAnimationCompression: Display: Storing compressed animation data for /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_kupaAction.minecart_coal_Anim_wózek_coal_kupaAction, at AnimationSequence/3395744b158d14eb18b9330dca223e3850f94355
+[2025.06.05-18.35.09:222][573]LogFbx: Parsing AnimStack wózek|coal2Action
+[2025.06.05-18.35.09:391][573]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal2Action.minecart_coal_Anim_wózek_coal2Action
+[2025.06.05-18.35.09:391][573]LogAnimationCompression: Display: Storing compressed animation data for /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal2Action.minecart_coal_Anim_wózek_coal2Action, at AnimationSequence/e96943de8fc78ac2b2892b5e373a653c096d651c
+[2025.06.05-18.35.09:425][573]LogFbx: Parsing AnimStack wózek|kółko.001Action
+[2025.06.05-18.35.09:571][573]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_kółko_001Action.minecart_coal_Anim_wózek_kółko_001Action
+[2025.06.05-18.35.09:572][573]LogAnimationCompression: Display: Storing compressed animation data for /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_kółko_001Action.minecart_coal_Anim_wózek_kółko_001Action, at AnimationSequence/b42647d257164cce9fd502da29a9c17dbe31cb24
+[2025.06.05-18.35.09:607][573]LogFbx: Parsing AnimStack wózek|kółko.002Action
+[2025.06.05-18.35.09:771][573]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_kółko_002Action.minecart_coal_Anim_wózek_kółko_002Action
+[2025.06.05-18.35.09:785][573]LogAnimationCompression: Display: Storing compressed animation data for /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_kółko_002Action.minecart_coal_Anim_wózek_kółko_002Action, at AnimationSequence/c922531e25497293e29adc6669368ddaf96c8612
+[2025.06.05-18.35.09:809][573]LogFbx: Parsing AnimStack wózek|kółko.003Action
+[2025.06.05-18.35.09:972][573]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_kółko_003Action.minecart_coal_Anim_wózek_kółko_003Action
+[2025.06.05-18.35.09:972][573]LogAnimationCompression: Display: Storing compressed animation data for /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_kółko_003Action.minecart_coal_Anim_wózek_kółko_003Action, at AnimationSequence/a294437f1c7951ee06a15c8a25a588fb74341d1f
+[2025.06.05-18.35.10:008][573]LogFbx: Parsing AnimStack wózek|kółko.004Action
+[2025.06.05-18.35.10:171][573]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_kółko_004Action.minecart_coal_Anim_wózek_kółko_004Action
+[2025.06.05-18.35.10:172][573]LogAnimationCompression: Display: Storing compressed animation data for /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_kółko_004Action.minecart_coal_Anim_wózek_kółko_004Action, at AnimationSequence/cdf4533e41dadb28b1eacb1c4af590907f38ac19
+[2025.06.05-18.35.10:205][573]LogFbx: Parsing AnimStack wózek|ramaAction
+[2025.06.05-18.35.10:374][573]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_ramaAction.minecart_coal_Anim_wózek_ramaAction
+[2025.06.05-18.35.10:374][573]LogAnimationCompression: Display: Storing compressed animation data for /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_ramaAction.minecart_coal_Anim_wózek_ramaAction, at AnimationSequence/52ccb809d9450bea0b1b36c140618cda7cec5a1d
+[2025.06.05-18.35.10:407][573]LogFbx: Parsing AnimStack wózek|wózekAction
+[2025.06.05-18.35.10:573][573]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_wózekAction.minecart_coal_Anim_wózek_wózekAction
+[2025.06.05-18.35.10:573][573]LogAnimationCompression: Display: Storing compressed animation data for /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_wózekAction.minecart_coal_Anim_wózek_wózekAction, at AnimationSequence/7edc24c7ab82bef4cb168e7439acf82c57bd1bed
+[2025.06.05-18.35.10:616][573]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2025.06.05-18.35.10:616][573]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2025.06.05-18.35.10:759][573]LogAutomationController: Ignoring very large delta of 7.59 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.06.05-18.35.11:027][576]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.06.05-18.35.11:140][577]LogShaderCompilers: Display: ================================================
+[2025.06.05-18.35.11:140][577]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.06.05-18.35.11:140][577]LogShaderCompilers: Display: Total job queries 247, among them cache hits 92 (37.25%)
+[2025.06.05-18.35.11:140][577]LogShaderCompilers: Display: Tracking 65 distinct input hashes that result in 38 distinct outputs (58.46%)
+[2025.06.05-18.35.11:140][577]LogShaderCompilers: Display: RAM used: 1,46 MiB of 1,60 GiB budget. Usage: 0.09%
+[2025.06.05-18.35.11:140][577]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.06.05-18.35.11:140][577]LogShaderCompilers: Display: Shaders Compiled: 2
+[2025.06.05-18.35.11:140][577]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100%)
+[2025.06.05-18.35.11:140][577]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.09 s
+[2025.06.05-18.35.11:140][577]LogShaderCompilers: Display: Job execution time: average 0.64 s, max 0.64 s
+[2025.06.05-18.35.11:140][577]LogShaderCompilers: Display: Job life time (pending + execution): average 0.73 s, max 0.74
+[2025.06.05-18.35.11:140][577]LogShaderCompilers: Display: Shader code size: average 27,353 KiB, min 3,699 KiB, max 38,027 KiB
+[2025.06.05-18.35.11:140][577]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.74 s
+[2025.06.05-18.35.11:140][577]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.06.05-18.35.11:140][577]LogShaderCompilers: Display: Average processing rate: 2.72 jobs/sec
+[2025.06.05-18.35.11:141][577]LogShaderCompilers: Display: Total thread time: 0,675 s
+[2025.06.05-18.35.11:141][577]LogShaderCompilers: Display: Total thread preprocess time: 0,059 s
+[2025.06.05-18.35.11:141][577]LogShaderCompilers: Display: Percentage time preprocessing: 8.76%
+[2025.06.05-18.35.11:141][577]LogShaderCompilers: Display: Effective parallelization: 0.92 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.06.05-18.35.11:141][577]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2025.06.05-18.35.11:141][577]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    2 times, average 0.24 sec, max 0.24 sec, min 0.23 sec)
+[2025.06.05-18.35.11:141][577]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    2 times, average 0.10 sec, max 0.10 sec, min 0.10 sec)
+[2025.06.05-18.35.11:141][577]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2025.06.05-18.35.11:141][577]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> - 70.52% of total time (compiled    2 times, average 0.24 sec, max 0.24 sec, min 0.23 sec)
+[2025.06.05-18.35.11:141][577]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 29.48% of total time (compiled    2 times, average 0.10 sec, max 0.10 sec, min 0.10 sec)
+[2025.06.05-18.35.11:141][577]LogShaderCompilers: Display: ================================================
+[2025.06.05-18.35.11:236][581]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.06.05-18.35.11:466][591]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.06.05-18.35.12:863][686]LogSlate: Window 'Message Log' being destroyed
+[2025.06.05-18.35.12:878][686]LogSlate: Window 'Message Log' being destroyed
+[2025.06.05-18.35.17:378][ 19]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.06.05-18.35.17:399][ 19]LogContentBrowser: Creating deferred item: NewFolder
+[2025.06.05-18.35.17:410][ 20]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.06.05-18.35.20:056][248]LogContentBrowser: Attempting asset rename: NewFolder -> miczyk
+[2025.06.05-18.35.20:056][248]LogContentBrowser: End creating deferred item NewFolder
+[2025.06.05-18.35.24:420][549]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\student\Downloads\mieczyk.fbx)
+[2025.06.05-18.35.24:426][549]LogFbx: Loading FBX Scene from C:\Users\student\Downloads\mieczyk.fbx
+[2025.06.05-18.35.24:430][549]LogFbx: FBX Scene Loaded Succesfully
+[2025.06.05-18.35.26:694][549]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.06.05-18.35.26:790][549]LogFbx: Display: Triangulating static mesh Cube
+[2025.06.05-18.35.27:402][549]LogStaticMesh: Display: Building static mesh mieczyk...
+[2025.06.05-18.35.27:422][549]LogStaticMesh: Built static mesh [0.02s] /Game/content/models/assets/miczyk/mieczyk.mieczyk
+[2025.06.05-18.35.27:425][549]LogStaticMesh: Warning: mieczyk has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2025.06.05-18.35.27:425][549]LogStaticMesh: Warning: mieczyk has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.06.05-18.35.27:426][549]LogStaticMesh: Warning: mieczyk has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.06.05-18.35.27:455][549]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2025.06.05-18.35.27:455][549]FBXImport: Warning: mieczyk has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2025.06.05-18.35.27:455][549]FBXImport: Warning: mieczyk has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2025.06.05-18.35.27:455][549]FBXImport: Warning: mieczyk has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2025.06.05-18.35.27:540][549]LogAutomationController: Ignoring very large delta of 3.13 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.06.05-18.35.29:466][662]LogSlate: Window 'Message Log' being destroyed
+[2025.06.05-18.35.29:481][662]LogSlate: Window 'Message Log' being destroyed
+[2025.06.05-18.35.57:472][ 57]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.06.05-18.35.57:497][ 57]LogContentBrowser: Creating deferred item: NewFolder
+[2025.06.05-18.35.57:507][ 58]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.06.05-18.36.00:213][294]LogContentBrowser: Attempting asset rename: NewFolder -> enemych
+[2025.06.05-18.36.00:213][294]LogContentBrowser: End creating deferred item NewFolder
+[2025.06.05-18.36.08:230][540]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\student\Downloads\enemyfbx(1).fbx)
+[2025.06.05-18.36.08:236][540]LogFbx: Loading FBX Scene from C:\Users\student\Downloads\enemyfbx(1).fbx
+[2025.06.05-18.36.08:248][540]LogFbx: FBX Scene Loaded Succesfully
+[2025.06.05-18.36.15:540][540]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.06.05-18.36.15:617][540]LogFbx: Display: Triangulating static mesh Cube.001
+[2025.06.05-18.36.15:983][540]LogStaticMesh: Display: Building static mesh enemyfbx_1_...
+[2025.06.05-18.36.16:206][540]LogStaticMesh: Built static mesh [0.22s] /Game/content/models/enemych/enemyfbx_1_.enemyfbx_1_
+[2025.06.05-18.36.16:415][540]LogAutomationController: Ignoring very large delta of 8.19 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.06.05-18.36.21:338][930]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.05-18.36.21:435][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/models/enemych/enemyfbx_1_" FILE="../../../../../projekt/kaktussss/Content/content/models/enemych/enemyfbx_1_.uasset" SILENT=true
+[2025.06.05-18.36.21:446][930]LogSavePackage: Moving output files for package: /Game/content/models/enemych/enemyfbx_1_
+[2025.06.05-18.36.21:446][930]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/enemyfbx_1_E44E4FD048DFE638A8E551B0A378AAD7.tmp' to '../../../../../projekt/kaktussss/Content/content/models/enemych/enemyfbx_1_.uasset'
+[2025.06.05-18.36.23:095][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/models/enemych/Material_001" FILE="../../../../../projekt/kaktussss/Content/content/models/enemych/Material_001.uasset" SILENT=true
+[2025.06.05-18.36.23:099][930]LogSavePackage: Moving output files for package: /Game/content/models/enemych/Material_001
+[2025.06.05-18.36.23:099][930]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/Material_0018FB19E0540FFD0A1F191E78D31BED3B6.tmp' to '../../../../../projekt/kaktussss/Content/content/models/enemych/Material_001.uasset'
+[2025.06.05-18.36.23:107][930]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.76 sec (total: 6.27 sec)
+[2025.06.05-18.36.23:107][930]AssetCheck: New page: Asset Save: multiple assets
+[2025.06.05-18.36.23:107][930]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/content/models/enemych/enemyfbx_1_.enemyfbx_1_
+[2025.06.05-18.36.23:107][930]LogContentValidation: Display: Validating /Script/Engine.Material /Game/content/models/enemych/Material_001.Material_001
+[2025.06.05-18.36.25:137][ 75]LogViewport: Scene viewport resized to 2100x779, mode Windowed.
