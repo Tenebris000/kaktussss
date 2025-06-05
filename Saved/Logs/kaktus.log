@@ -4477,3 +4477,486 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.06.05-19.09.27:151][287]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5041.477051
 [2025.06.05-19.09.27:321][297]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.06.05-19.09.27:321][297]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5041.630371, Update Interval: 304.334229
+[2025.06.05-19.11.08:286][213]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/content/models/assets/miczyk/mieczyk.mieczyk
+[2025.06.05-19.11.08:286][213]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/content/models/assets/miczyk/mieczyk.mieczyk
+[2025.06.05-19.11.08:287][213]LogActorFactory: Actor Factory spawned StaticMesh /Game/content/models/assets/miczyk/mieczyk.mieczyk as actor: StaticMeshActor /Game/content/maps/mainmap.mainmap:PersistentLevel.StaticMeshActor_16
+[2025.06.05-19.11.08:673][241]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/content/models/assets/miczyk/mieczyk.mieczyk
+[2025.06.05-19.11.08:673][241]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/content/models/assets/miczyk/mieczyk.mieczyk
+[2025.06.05-19.11.08:674][241]LogActorFactory: Actor Factory spawned StaticMesh /Game/content/models/assets/miczyk/mieczyk.mieczyk as actor: StaticMeshActor /Game/content/maps/mainmap.mainmap:PersistentLevel.StaticMeshActor_17
+[2025.06.05-19.11.16:133][798]LogViewport: Scene viewport resized to 1612x779, mode Windowed.
+[2025.06.05-19.11.30:610][824]LogStaticMesh: Display: Building static mesh mieczyk...
+[2025.06.05-19.11.30:628][824]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/content/models/assets/miczyk/mieczyk) ...
+[2025.06.05-19.11.30:629][824]LogStaticMesh: Built static mesh [0.02s] /Game/content/models/assets/miczyk/mieczyk.mieczyk
+[2025.06.05-19.11.30:632][824]LogStaticMesh: Warning: mieczyk has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2025.06.05-19.11.30:632][824]LogStaticMesh: Warning: mieczyk has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.06.05-19.11.30:632][824]LogStaticMesh: Warning: mieczyk has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.06.05-19.11.33:897][ 77]LogViewport: Scene viewport resized to 2100x779, mode Windowed.
+[2025.06.05-19.11.34:752][148]Cmd: DELETE
+[2025.06.05-19.11.34:752][148]Cmd: ACTOR DELETE
+[2025.06.05-19.11.34:767][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.06.05-19.11.34:795][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.06.05-19.11.34:798][148]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2025.06.05-19.11.36:293][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.06.05-19.11.36:300][261]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.05-19.11.36:342][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/maps/mainmap" FILE="../../../../../projekt/kaktussss/Content/content/maps/mainmap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.06.05-19.11.36:383][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.06.05-19.11.36:439][261]LogSavePackage: Moving output files for package: /Game/content/maps/mainmap
+[2025.06.05-19.11.36:440][261]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/mainmapD0586D2D49D193352BBB62B23306CF5A.tmp' to '../../../../../projekt/kaktussss/Content/content/maps/mainmap.umap'
+[2025.06.05-19.11.36:450][261]LogFileHelpers: Saving map 'mainmap' took 0.109
+[2025.06.05-19.11.36:494][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter" FILE="../../../../../projekt/kaktussss/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2025.06.05-19.11.36:526][261]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.06.05-19.11.36:526][261]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/BP_ThirdPersonCharacter83A9F7D14847BF2E647F8AAE1410D073.tmp' to '../../../../../projekt/kaktussss/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.06.05-19.11.36:528][261]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.06.05-19.11.36:581][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CHAR/MAIN_CHARACTER1_Skeleton" FILE="../../../../../projekt/kaktussss/Content/CHAR/MAIN_CHARACTER1_Skeleton.uasset" SILENT=true
+[2025.06.05-19.11.36:586][261]LogSavePackage: Moving output files for package: /Game/CHAR/MAIN_CHARACTER1_Skeleton
+[2025.06.05-19.11.36:586][261]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/MAIN_CHARACTER1_Skeleton8AEFF7EF47DED48B27C8588B0DF36F81.tmp' to '../../../../../projekt/kaktussss/Content/CHAR/MAIN_CHARACTER1_Skeleton.uasset'
+[2025.06.05-19.11.36:587][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/AI/shotgun/shotgun" FILE="../../../../../projekt/kaktussss/Content/content/AI/shotgun/shotgun.uasset" SILENT=true
+[2025.06.05-19.11.36:592][261]LogSavePackage: Moving output files for package: /Game/content/AI/shotgun/shotgun
+[2025.06.05-19.11.36:592][261]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/shotgunAAA1EBCF499BEC7F48448BB79079FE8D.tmp' to '../../../../../projekt/kaktussss/Content/content/AI/shotgun/shotgun.uasset'
+[2025.06.05-19.11.36:593][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/models/assets/minecartcoal/minecart_coal" FILE="../../../../../projekt/kaktussss/Content/content/models/assets/minecartcoal/minecart_coal.uasset" SILENT=true
+[2025.06.05-19.11.36:607][261]LogSavePackage: Moving output files for package: /Game/content/models/assets/minecartcoal/minecart_coal
+[2025.06.05-19.11.36:607][261]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/minecart_coalF14A33BC4870A0DAB4864A829AF1B639.tmp' to '../../../../../projekt/kaktussss/Content/content/models/assets/minecartcoal/minecart_coal.uasset'
+[2025.06.05-19.11.36:610][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/models/assets/minecartcoal/Material_001" FILE="../../../../../projekt/kaktussss/Content/content/models/assets/minecartcoal/Material_001.uasset" SILENT=true
+[2025.06.05-19.11.36:614][261]LogSavePackage: Moving output files for package: /Game/content/models/assets/minecartcoal/Material_001
+[2025.06.05-19.11.36:614][261]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/Material_00102642F324D7B251BD635F8A12189C280.tmp' to '../../../../../projekt/kaktussss/Content/content/models/assets/minecartcoal/Material_001.uasset'
+[2025.06.05-19.11.36:615][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/models/assets/minecartcoal/Material_002" FILE="../../../../../projekt/kaktussss/Content/content/models/assets/minecartcoal/Material_002.uasset" SILENT=true
+[2025.06.05-19.11.36:618][261]LogSavePackage: Moving output files for package: /Game/content/models/assets/minecartcoal/Material_002
+[2025.06.05-19.11.36:618][261]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/Material_002F6510ADB45CD95F1A6E675879F6F3FCA.tmp' to '../../../../../projekt/kaktussss/Content/content/models/assets/minecartcoal/Material_002.uasset'
+[2025.06.05-19.11.36:619][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/models/assets/minecartcoal/Material" FILE="../../../../../projekt/kaktussss/Content/content/models/assets/minecartcoal/Material.uasset" SILENT=true
+[2025.06.05-19.11.36:622][261]LogSavePackage: Moving output files for package: /Game/content/models/assets/minecartcoal/Material
+[2025.06.05-19.11.36:622][261]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/Material9409E82840DFBE02536CE6AD915AA0F7.tmp' to '../../../../../projekt/kaktussss/Content/content/models/assets/minecartcoal/Material.uasset'
+[2025.06.05-19.11.36:626][261]LogSavePackage: Moving output files for package: /Game/content/models/assets/minecartcoal/minecart_coal_Skeleton
+[2025.06.05-19.11.36:626][261]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/minecart_coal_Skeleton6112FCFF40586AB211EB79AA6560BE61.tmp' to '../../../../../projekt/kaktussss/Content/content/models/assets/minecartcoal/minecart_coal_Skeleton.uasset'
+[2025.06.05-19.11.36:632][261]LogSavePackage: Moving output files for package: /Game/content/models/assets/minecartcoal/minecart_coal_PhysicsAsset
+[2025.06.05-19.11.36:632][261]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/minecart_coal_PhysicsAsset94B6A298434C24E1AC141FAE53B13502.tmp' to '../../../../../projekt/kaktussss/Content/content/models/assets/minecartcoal/minecart_coal_PhysicsAsset.uasset'
+[2025.06.05-19.11.36:637][261]LogSavePackage: Moving output files for package: /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_1Action
+[2025.06.05-19.11.36:637][261]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/minecart_coal_Anim_wózek_coal_1A938F103C464F3CB731DEEA9BE16C3D22.tmp' to '../../../../../projekt/kaktussss/Content/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_1Action.uasset'
+[2025.06.05-19.11.36:643][261]LogSavePackage: Moving output files for package: /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_3Action
+[2025.06.05-19.11.36:643][261]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/minecart_coal_Anim_wózek_coal_3AAB688E004111960E68694C9E29DAD029.tmp' to '../../../../../projekt/kaktussss/Content/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_3Action.uasset'
+[2025.06.05-19.11.36:648][261]LogSavePackage: Moving output files for package: /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_4Action
+[2025.06.05-19.11.36:648][261]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/minecart_coal_Anim_wózek_coal_4A0F6ADD344091431E7D3F1C981B68C88E.tmp' to '../../../../../projekt/kaktussss/Content/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_4Action.uasset'
+[2025.06.05-19.11.36:655][261]LogSavePackage: Moving output files for package: /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_5Action
+[2025.06.05-19.11.36:655][261]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/minecart_coal_Anim_wózek_coal_5AF3DC1F2D42E34AB256C2A49D355435EB.tmp' to '../../../../../projekt/kaktussss/Content/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_5Action.uasset'
+[2025.06.05-19.11.36:661][261]LogSavePackage: Moving output files for package: /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_6Action
+[2025.06.05-19.11.36:661][261]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/minecart_coal_Anim_wózek_coal_6A78C519154A2CE3FB13AB738C4C50C62F.tmp' to '../../../../../projekt/kaktussss/Content/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_6Action.uasset'
+[2025.06.05-19.11.36:666][261]LogSavePackage: Moving output files for package: /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_7Action
+[2025.06.05-19.11.36:666][261]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/minecart_coal_Anim_wózek_coal_7A0B971BE446578C85C92587B2C2CE8B1D.tmp' to '../../../../../projekt/kaktussss/Content/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_7Action.uasset'
+[2025.06.05-19.11.36:672][261]LogSavePackage: Moving output files for package: /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_8Action
+[2025.06.05-19.11.36:672][261]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/minecart_coal_Anim_wózek_coal_8A7AD39DB04FDDE3E9F4A6C19357C82EC7.tmp' to '../../../../../projekt/kaktussss/Content/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_8Action.uasset'
+[2025.06.05-19.11.36:678][261]LogSavePackage: Moving output files for package: /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_kupaAction
+[2025.06.05-19.11.36:678][261]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/minecart_coal_Anim_wózek_coal_ku4974994B4DBE774B28F58F903B5C9A6E.tmp' to '../../../../../projekt/kaktussss/Content/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_kupaAction.uasset'
+[2025.06.05-19.11.36:684][261]LogSavePackage: Moving output files for package: /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal2Action
+[2025.06.05-19.11.36:684][261]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/minecart_coal_Anim_wózek_coal2AcA7C41811443B51813F7DA5A75FDF5937.tmp' to '../../../../../projekt/kaktussss/Content/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal2Action.uasset'
+[2025.06.05-19.11.36:690][261]LogSavePackage: Moving output files for package: /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_kółko_001Action
+[2025.06.05-19.11.36:690][261]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/minecart_coal_Anim_wózek_kółko_0B191D7C242D0A1F75F5520A1F8A9243D.tmp' to '../../../../../projekt/kaktussss/Content/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_kółko_001Action.uasset'
+[2025.06.05-19.11.36:695][261]LogSavePackage: Moving output files for package: /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_kółko_002Action
+[2025.06.05-19.11.36:695][261]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/minecart_coal_Anim_wózek_kółko_0FF9D6694461CD69FE6F475A39C0D0B21.tmp' to '../../../../../projekt/kaktussss/Content/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_kółko_002Action.uasset'
+[2025.06.05-19.11.36:701][261]LogSavePackage: Moving output files for package: /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_kółko_003Action
+[2025.06.05-19.11.36:701][261]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/minecart_coal_Anim_wózek_kółko_07F952AE94320C13FCA8450AC69D155BE.tmp' to '../../../../../projekt/kaktussss/Content/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_kółko_003Action.uasset'
+[2025.06.05-19.11.36:707][261]LogSavePackage: Moving output files for package: /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_kółko_004Action
+[2025.06.05-19.11.36:707][261]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/minecart_coal_Anim_wózek_kółko_0C61660B44E5B1D49080BAC9D2F28D6AF.tmp' to '../../../../../projekt/kaktussss/Content/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_kółko_004Action.uasset'
+[2025.06.05-19.11.36:713][261]LogSavePackage: Moving output files for package: /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_ramaAction
+[2025.06.05-19.11.36:713][261]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/minecart_coal_Anim_wózek_ramaActE889460547D1AE3C5BBFD0A0557B52ED.tmp' to '../../../../../projekt/kaktussss/Content/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_ramaAction.uasset'
+[2025.06.05-19.11.36:720][261]LogSavePackage: Moving output files for package: /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_wózekAction
+[2025.06.05-19.11.36:720][261]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/minecart_coal_Anim_wózek_wózekAc214A602D4A5D416B3BB1AD8D6E1CDD5E.tmp' to '../../../../../projekt/kaktussss/Content/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_wózekAction.uasset'
+[2025.06.05-19.11.36:728][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/models/assets/miczyk/mieczyk" FILE="../../../../../projekt/kaktussss/Content/content/models/assets/miczyk/mieczyk.uasset" SILENT=true
+[2025.06.05-19.11.36:741][261]LogSavePackage: Moving output files for package: /Game/content/models/assets/miczyk/mieczyk
+[2025.06.05-19.11.36:742][261]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/mieczyk4B7D2BA84F357AF63FE839B2BBFAB3BF.tmp' to '../../../../../projekt/kaktussss/Content/content/models/assets/miczyk/mieczyk.uasset'
+[2025.06.05-19.11.36:749][261]LogFileHelpers: InternalPromptForCheckoutAndSave took 450 ms (total: 7.08 sec)
+[2025.06.05-19.11.36:755][261]AssetCheck: New page: Asset Save: multiple assets
+[2025.06.05-19.11.36:755][261]LogContentValidation: Display: Validating /Script/Engine.World /Game/content/maps/mainmap.mainmap
+[2025.06.05-19.11.36:755][261]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.06.05-19.11.36:755][261]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/CHAR/MAIN_CHARACTER1_Skeleton.MAIN_CHARACTER1_Skeleton
+[2025.06.05-19.11.36:755][261]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/content/AI/shotgun/shotgun.shotgun
+[2025.06.05-19.11.36:755][261]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/content/models/assets/minecartcoal/minecart_coal.minecart_coal
+[2025.06.05-19.11.36:755][261]LogContentValidation: Display: Validating /Script/Engine.Material /Game/content/models/assets/minecartcoal/Material_001.Material_001
+[2025.06.05-19.11.36:755][261]LogContentValidation: Display: Validating /Script/Engine.Material /Game/content/models/assets/minecartcoal/Material_002.Material_002
+[2025.06.05-19.11.36:755][261]LogContentValidation: Display: Validating /Script/Engine.Material /Game/content/models/assets/minecartcoal/Material.Material
+[2025.06.05-19.11.36:755][261]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/content/models/assets/minecartcoal/minecart_coal_Skeleton.minecart_coal_Skeleton
+[2025.06.05-19.11.36:755][261]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/content/models/assets/minecartcoal/minecart_coal_PhysicsAsset.minecart_coal_PhysicsAsset
+[2025.06.05-19.11.36:755][261]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_1Action.minecart_coal_Anim_wózek_coal_1Action
+[2025.06.05-19.11.36:755][261]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_3Action.minecart_coal_Anim_wózek_coal_3Action
+[2025.06.05-19.11.36:755][261]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_4Action.minecart_coal_Anim_wózek_coal_4Action
+[2025.06.05-19.11.36:755][261]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_5Action.minecart_coal_Anim_wózek_coal_5Action
+[2025.06.05-19.11.36:755][261]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_6Action.minecart_coal_Anim_wózek_coal_6Action
+[2025.06.05-19.11.36:755][261]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_7Action.minecart_coal_Anim_wózek_coal_7Action
+[2025.06.05-19.11.36:755][261]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_8Action.minecart_coal_Anim_wózek_coal_8Action
+[2025.06.05-19.11.36:755][261]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal_kupaAction.minecart_coal_Anim_wózek_coal_kupaAction
+[2025.06.05-19.11.36:755][261]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_coal2Action.minecart_coal_Anim_wózek_coal2Action
+[2025.06.05-19.11.36:755][261]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_kółko_001Action.minecart_coal_Anim_wózek_kółko_001Action
+[2025.06.05-19.11.36:755][261]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_kółko_002Action.minecart_coal_Anim_wózek_kółko_002Action
+[2025.06.05-19.11.36:755][261]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_kółko_003Action.minecart_coal_Anim_wózek_kółko_003Action
+[2025.06.05-19.11.36:755][261]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_kółko_004Action.minecart_coal_Anim_wózek_kółko_004Action
+[2025.06.05-19.11.36:755][261]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_ramaAction.minecart_coal_Anim_wózek_ramaAction
+[2025.06.05-19.11.36:755][261]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/content/models/assets/minecartcoal/minecart_coal_Anim_wózek_wózekAction.minecart_coal_Anim_wózek_wózekAction
+[2025.06.05-19.11.36:755][261]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/content/models/assets/miczyk/mieczyk.mieczyk
+[2025.06.05-19.12.45:069][811]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.05-19.12.45:113][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CHAR/MAIN_CHARACTER1_Skeleton" FILE="../../../../../projekt/kaktussss/Content/CHAR/MAIN_CHARACTER1_Skeleton.uasset" SILENT=true
+[2025.06.05-19.12.45:117][811]LogSavePackage: Moving output files for package: /Game/CHAR/MAIN_CHARACTER1_Skeleton
+[2025.06.05-19.12.45:118][811]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/MAIN_CHARACTER1_SkeletonC3D7B7C64290ECA81BE5F3A9AAB57158.tmp' to '../../../../../projekt/kaktussss/Content/CHAR/MAIN_CHARACTER1_Skeleton.uasset'
+[2025.06.05-19.12.45:125][811]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 7.14 sec)
+[2025.06.05-19.12.45:126][811]AssetCheck: New page: Asset Save: MAIN_CHARACTER1_Skeleton
+[2025.06.05-19.12.45:126][811]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/CHAR/MAIN_CHARACTER1_Skeleton.MAIN_CHARACTER1_Skeleton
+[2025.06.05-19.12.51:240][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.06.05-19.13.10:094][146]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_WindowFrame) ...
+[2025.06.05-19.13.53:685][535]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.05-19.13.53:753][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CHAR/MAIN_CHARACTER1_Skeleton" FILE="../../../../../projekt/kaktussss/Content/CHAR/MAIN_CHARACTER1_Skeleton.uasset" SILENT=true
+[2025.06.05-19.13.53:757][535]LogSavePackage: Moving output files for package: /Game/CHAR/MAIN_CHARACTER1_Skeleton
+[2025.06.05-19.13.53:757][535]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/MAIN_CHARACTER1_Skeleton83B8DFA54DE03E090A8D0B82BCC44FF7.tmp' to '../../../../../projekt/kaktussss/Content/CHAR/MAIN_CHARACTER1_Skeleton.uasset'
+[2025.06.05-19.13.53:765][535]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 7.21 sec)
+[2025.06.05-19.13.53:766][535]AssetCheck: New page: Asset Save: MAIN_CHARACTER1_Skeleton
+[2025.06.05-19.13.53:766][535]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/CHAR/MAIN_CHARACTER1_Skeleton.MAIN_CHARACTER1_Skeleton
+[2025.06.05-19.13.56:292][695]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.05-19.13.56:312][695]BlueprintLog: New page: Pre-Play auto-recompile
+[2025.06.05-19.13.56:315][695]LogPlayLevel: [PlayLevel] Compiling gostek before play...
+[2025.06.05-19.13.56:316][695]LogPlayLevel: [PlayLevel]   Compiling BP_ThirdPersonCharacter as a dependent...
+[2025.06.05-19.13.56:501][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.06.05-19.13.56:503][695]LogPlayLevel: PlayLevel: Blueprint regeneration took 190 ms (2 blueprints)
+[2025.06.05-19.13.56:503][695]PIE: New page: PIE session: mainmap (5 cze 2025, 23:13:56)
+[2025.06.05-19.13.56:544][695]LogPlayLevel: Creating play world package: /Game/content/maps/UEDPIE_0_mainmap
+[2025.06.05-19.13.56:558][695]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014499s)
+[2025.06.05-19.13.56:558][695]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/content/maps/mainmap.mainmap to /Game/content/maps/UEDPIE_0_mainmap.mainmap (0.014539s)
+[2025.06.05-19.13.56:573][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.06.05-19.13.56:575][695]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.06.05-19.13.56:575][695]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.06.05-19.13.56:575][695]LogAIModule: Creating AISystem for world mainmap
+[2025.06.05-19.13.56:576][695]LogPlayLevel: PIE: World Init took: (0.000978s)
+[2025.06.05-19.13.56:576][695]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.06.05-19.13.56:576][695]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.05-19.13.56:576][695]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.05-19.13.56:576][695]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.05-19.13.56:576][695]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.05-19.13.56:576][695]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.05-19.13.56:576][695]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.05-19.13.56:576][695]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.05-19.13.56:576][695]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.05-19.13.56:576][695]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.05-19.13.56:576][695]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.05-19.13.56:576][695]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.05-19.13.56:579][695]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.05-19.13.56:602][695]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2025.06.05-19.13.56:602][695]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.05-19.13.56:602][695]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.05-19.13.56:602][695]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.05-19.13.56:603][695]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2025.06.05-19.13.56:603][695]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2025.06.05-19.13.56:604][695]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2025.06.05-19.13.56:604][695]LogInit: FAudioDevice initialized with ID 17.
+[2025.06.05-19.13.56:605][695]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2025.06.05-19.13.56:605][695]LogAudio: Display: Audio Device (ID: 17) registered with world 'mainmap'.
+[2025.06.05-19.13.56:605][695]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2025.06.05-19.13.56:607][695]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.06.05-19.13.56:627][695]LogWorld: Bringing World /Game/content/maps/UEDPIE_0_mainmap.mainmap up for play (max tick rate 0) at 2025.06.05-21.13.56
+[2025.06.05-19.13.56:628][695]LogWorld: Bringing up level for play took: 0.020747
+[2025.06.05-19.13.56:631][695]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2025.06.05-19.13.56:633][695]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.13.56:633][695]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.13.56:633][695]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.13.56:633][695]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.13.56:633][695]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.13.56:633][695]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.13.56:633][695]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.13.56:634][695]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.13.56:634][695]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.13.56:634][695]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.13.56:634][695]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.13.56:634][695]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.13.56:634][695]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.13.56:634][695]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.13.56:635][695]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.13.56:635][695]LogBlueprintUserMessages: [DMsystem] 0.1
+[2025.06.05-19.13.56:635][695]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.13.56:635][695]LogBlueprintUserMessages: [DMsystem] 0.1
+[2025.06.05-19.13.56:635][695]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.13.56:635][695]LogBlueprintUserMessages: [DMsystem] 0.1
+[2025.06.05-19.13.56:635][695]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.13.56:635][695]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.13.56:636][695]LogBlueprintUserMessages: [DMsystem] 0.1
+[2025.06.05-19.13.56:636][695]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.13.56:638][695]LogBlueprintUserMessages: [USERINTERFACE_C_0] 0
+[2025.06.05-19.13.56:638][695]LogBlueprintUserMessages: [USERINTERFACE_C_0] niema
+[2025.06.05-19.13.56:638][695]LogBlueprintUserMessages: [USERINTERFACE_C_0] 0
+[2025.06.05-19.13.56:638][695]LogBlueprintUserMessages: [USERINTERFACE_C_0] niema
+[2025.06.05-19.13.56:638][695]PIE: Server logged in
+[2025.06.05-19.13.56:639][695]PIE: Play in editor total start time 0,335 seconds.
+[2025.06.05-19.13.56:701][696]LogBlueprintUserMessages: [movetorandomlocation_C_2] movmentproblem
+[2025.06.05-19.13.59:304][860]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.13.59:304][860]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.13.59:305][860]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.13.59:428][870]LogBlueprintUserMessages: [DMsystem] 0.9
+[2025.06.05-19.13.59:429][870]LogBlueprintUserMessages: [USERINTERFACE_C_0] 0
+[2025.06.05-19.13.59:429][870]LogBlueprintUserMessages: [USERINTERFACE_C_0] niema
+[2025.06.05-19.14.00:545][958]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.14.00:557][959]LogBlueprintUserMessages: [movetorandomlocation_C_1] movmentproblem
+[2025.06.05-19.14.02:092][ 81]LogBlueprintUserMessages: [DMsystem] 0.0
+[2025.06.05-19.14.02:093][ 81]LogBlueprintUserMessages: [DMsystem] -0.1
+[2025.06.05-19.14.02:093][ 81]LogBlueprintUserMessages: [DMsystem] -0.2
+[2025.06.05-19.14.02:093][ 81]LogBlueprintUserMessages: [DMsystem] -0.3
+[2025.06.05-19.14.02:093][ 81]LogBlueprintUserMessages: [DMsystem] -0.4
+[2025.06.05-19.14.02:094][ 81]LogBlueprintUserMessages: [DMsystem] -0.5
+[2025.06.05-19.14.02:094][ 81]LogBlueprintUserMessages: [DMsystem] -0.6
+[2025.06.05-19.14.02:094][ 81]LogBlueprintUserMessages: [DMsystem] -0.7
+[2025.06.05-19.14.02:095][ 81]LogBlueprintUserMessages: [DMsystem] -0.8
+[2025.06.05-19.14.02:095][ 81]LogBlueprintUserMessages: [DMsystem] -0.9
+[2025.06.05-19.14.02:095][ 81]LogBlueprintUserMessages: [DMsystem] -1.0
+[2025.06.05-19.14.02:095][ 81]LogBlueprintUserMessages: [DMsystem] -1.1
+[2025.06.05-19.14.02:096][ 81]LogBlueprintUserMessages: [DMsystem] -1.2
+[2025.06.05-19.14.02:096][ 81]LogBlueprintUserMessages: [DMsystem] -1.3
+[2025.06.05-19.14.02:096][ 81]LogBlueprintUserMessages: [DMsystem] -1.4
+[2025.06.05-19.14.02:097][ 81]LogBlueprintUserMessages: [DMsystem] -1.5
+[2025.06.05-19.14.02:097][ 81]LogBlueprintUserMessages: [DMsystem] -1.6
+[2025.06.05-19.14.02:097][ 81]LogBlueprintUserMessages: [DMsystem] -1.7
+[2025.06.05-19.14.02:098][ 81]LogBlueprintUserMessages: [DMsystem] -1.8
+[2025.06.05-19.14.02:098][ 81]LogBlueprintUserMessages: [DMsystem] -1.9
+[2025.06.05-19.14.02:098][ 81]LogBlueprintUserMessages: [DMsystem] -2.0
+[2025.06.05-19.14.02:098][ 81]LogBlueprintUserMessages: [DMsystem] -2.1
+[2025.06.05-19.14.02:099][ 81]LogBlueprintUserMessages: [DMsystem] -2.2
+[2025.06.05-19.14.02:099][ 81]LogBlueprintUserMessages: [DMsystem] -2.3
+[2025.06.05-19.14.02:099][ 81]LogBlueprintUserMessages: [DMsystem] -2.4
+[2025.06.05-19.14.02:100][ 81]LogBlueprintUserMessages: [DMsystem] -2.5
+[2025.06.05-19.14.02:100][ 81]LogBlueprintUserMessages: [DMsystem] -2.6
+[2025.06.05-19.14.02:100][ 81]LogBlueprintUserMessages: [DMsystem] -2.7
+[2025.06.05-19.14.02:100][ 81]LogBlueprintUserMessages: [DMsystem] -2.8
+[2025.06.05-19.14.02:101][ 81]LogBlueprintUserMessages: [DMsystem] -2.9
+[2025.06.05-19.14.02:101][ 81]LogScript: Warning: Infinite script recursion (120 calls) detected - see log for stack trace
+	DMsystem_C /Game/content/maps/UEDPIE_0_mainmap.mainmap:PersistentLevel.exposive_C_3.DMsystem
+	Function /Game/content/components/DMsystem.DMsystem_C:DEATH:0000
+[2025.06.05-19.14.02:113][ 81]PIE: Error: Infinite loop detected. Blueprint:  DMsystem Function:  DEATH Call Stack:  Show
+[2025.06.05-19.14.02:162][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.05-19.14.02:162][ 81]LogWorld: BeginTearingDown for /Game/content/maps/UEDPIE_0_mainmap
+[2025.06.05-19.14.02:162][ 81]LogWorld: UWorld::CleanupWorld for mainmap, bSessionEnded=true, bCleanupResources=true
+[2025.06.05-19.14.02:163][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.05-19.14.02:170][ 81]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.05-19.14.02:175][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.05-19.14.02:191][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.05-19.14.02:192][ 81]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2025.06.05-19.14.02:192][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.06.05-19.14.02:194][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.06.05-19.14.02:203][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.06.05-19.14.02:359][ 82]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2025.06.05-19.14.03:189][130]LogSlate: Window 'Message Log' being destroyed
+[2025.06.05-19.14.03:205][130]LogSlate: Window 'Message Log' being destroyed
+[2025.06.05-19.14.52:405][164]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.05-19.14.52:467][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CHAR/MAIN_CHARACTER1_Skeleton" FILE="../../../../../projekt/kaktussss/Content/CHAR/MAIN_CHARACTER1_Skeleton.uasset" SILENT=true
+[2025.06.05-19.14.52:493][164]LogSavePackage: Moving output files for package: /Game/CHAR/MAIN_CHARACTER1_Skeleton
+[2025.06.05-19.14.52:493][164]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/MAIN_CHARACTER1_Skeleton46D7D6374202E6DF7EA5EAA62558D284.tmp' to '../../../../../projekt/kaktussss/Content/CHAR/MAIN_CHARACTER1_Skeleton.uasset'
+[2025.06.05-19.14.52:500][164]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 7.31 sec)
+[2025.06.05-19.14.52:500][164]AssetCheck: New page: Asset Save: MAIN_CHARACTER1_Skeleton
+[2025.06.05-19.14.52:500][164]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/CHAR/MAIN_CHARACTER1_Skeleton.MAIN_CHARACTER1_Skeleton
+[2025.06.05-19.15.00:893][704]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.05-19.15.00:957][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/maps/mainmap" FILE="../../../../../projekt/kaktussss/Content/content/maps/mainmap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.06.05-19.15.01:000][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.06.05-19.15.01:059][704]LogSavePackage: Moving output files for package: /Game/content/maps/mainmap
+[2025.06.05-19.15.01:059][704]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/mainmap6088A50948A22CB1EBAAB5BA74708892.tmp' to '../../../../../projekt/kaktussss/Content/content/maps/mainmap.umap'
+[2025.06.05-19.15.01:070][704]LogFileHelpers: Saving map 'mainmap' took 0.114
+[2025.06.05-19.15.01:076][704]LogFileHelpers: InternalPromptForCheckoutAndSave took 182 ms (total: 7.49 sec)
+[2025.06.05-19.15.01:078][704]AssetCheck: New page: Asset Save: mainmap
+[2025.06.05-19.15.01:078][704]LogContentValidation: Display: Validating /Script/Engine.World /Game/content/maps/mainmap.mainmap
+[2025.06.05-19.15.18:953][752]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5393.293945
+[2025.06.05-19.15.19:136][761]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.05-19.15.19:136][761]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5393.455566, Update Interval: 355.098114
+[2025.06.05-19.15.22:522][949]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2025.06.05-19.15.22:605][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.06.05-19.15.23:158][970]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.05-19.15.23:216][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter" FILE="../../../../../projekt/kaktussss/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2025.06.05-19.15.23:248][970]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.06.05-19.15.23:248][970]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/BP_ThirdPersonCharacter6B89C87746F13089EBDEF28A61278FCC.tmp' to '../../../../../projekt/kaktussss/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.06.05-19.15.23:255][970]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 7.59 sec)
+[2025.06.05-19.15.23:257][970]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2025.06.05-19.15.23:257][970]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.06.05-19.15.24:998][ 85]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.05-19.15.25:015][ 85]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.05-19.15.25:015][ 85]PIE: New page: PIE session: mainmap (5 cze 2025, 23:15:25)
+[2025.06.05-19.15.25:054][ 85]LogPlayLevel: Creating play world package: /Game/content/maps/UEDPIE_0_mainmap
+[2025.06.05-19.15.25:068][ 85]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014387s)
+[2025.06.05-19.15.25:068][ 85]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/content/maps/mainmap.mainmap to /Game/content/maps/UEDPIE_0_mainmap.mainmap (0.014426s)
+[2025.06.05-19.15.25:084][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.06.05-19.15.25:088][ 85]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.06.05-19.15.25:089][ 85]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.06.05-19.15.25:089][ 85]LogAIModule: Creating AISystem for world mainmap
+[2025.06.05-19.15.25:089][ 85]LogPlayLevel: PIE: World Init took: (0.001062s)
+[2025.06.05-19.15.25:089][ 85]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.06.05-19.15.25:089][ 85]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.05-19.15.25:089][ 85]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.05-19.15.25:089][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.05-19.15.25:089][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.05-19.15.25:090][ 85]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.05-19.15.25:090][ 85]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.05-19.15.25:090][ 85]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.05-19.15.25:090][ 85]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.05-19.15.25:090][ 85]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.05-19.15.25:090][ 85]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.05-19.15.25:090][ 85]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.05-19.15.25:092][ 85]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.05-19.15.25:115][ 85]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2025.06.05-19.15.25:115][ 85]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.05-19.15.25:115][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.05-19.15.25:115][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.05-19.15.25:116][ 85]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2025.06.05-19.15.25:116][ 85]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2025.06.05-19.15.25:118][ 85]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2025.06.05-19.15.25:118][ 85]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2025.06.05-19.15.25:118][ 85]LogInit: FAudioDevice initialized with ID 18.
+[2025.06.05-19.15.25:118][ 85]LogAudio: Display: Audio Device (ID: 18) registered with world 'mainmap'.
+[2025.06.05-19.15.25:118][ 85]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2025.06.05-19.15.25:120][ 85]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.06.05-19.15.25:141][ 85]LogWorld: Bringing World /Game/content/maps/UEDPIE_0_mainmap.mainmap up for play (max tick rate 0) at 2025.06.05-21.15.25
+[2025.06.05-19.15.25:142][ 85]LogWorld: Bringing up level for play took: 0.021731
+[2025.06.05-19.15.25:145][ 85]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2025.06.05-19.15.25:147][ 85]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.25:147][ 85]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.25:147][ 85]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.25:147][ 85]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.25:147][ 85]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.25:147][ 85]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.25:147][ 85]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.25:147][ 85]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.25:147][ 85]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.25:147][ 85]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.25:147][ 85]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.25:148][ 85]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.25:148][ 85]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.25:148][ 85]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.25:149][ 85]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.25:149][ 85]LogBlueprintUserMessages: [DMsystem] 0.1
+[2025.06.05-19.15.25:149][ 85]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.25:149][ 85]LogBlueprintUserMessages: [DMsystem] 0.1
+[2025.06.05-19.15.25:149][ 85]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.25:149][ 85]LogBlueprintUserMessages: [DMsystem] 0.1
+[2025.06.05-19.15.25:149][ 85]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.25:149][ 85]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.25:150][ 85]LogBlueprintUserMessages: [DMsystem] 0.1
+[2025.06.05-19.15.25:150][ 85]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.25:152][ 85]LogBlueprintUserMessages: [USERINTERFACE_C_0] 0
+[2025.06.05-19.15.25:152][ 85]LogBlueprintUserMessages: [USERINTERFACE_C_0] niema
+[2025.06.05-19.15.25:152][ 85]LogBlueprintUserMessages: [USERINTERFACE_C_0] 0
+[2025.06.05-19.15.25:152][ 85]LogBlueprintUserMessages: [USERINTERFACE_C_0] niema
+[2025.06.05-19.15.25:152][ 85]PIE: Server logged in
+[2025.06.05-19.15.25:153][ 85]PIE: Play in editor total start time 0,145 seconds.
+[2025.06.05-19.15.25:185][ 86]LogBlueprintUserMessages: [movetorandomlocation_C_2] movmentproblem
+[2025.06.05-19.15.30:131][457]LogCharacterMovement: exposive_C_3 is stuck and failed to move! Velocity: X=0.22 Y=-600.00 Z=0.00 Location: X=6776.82 Y=4147.04 Z=87.56 Normal: X=-0.13 Y=0.76 Z=-0.64 PenetrationDepth:2.450 Actor:BP_ThirdPersonCharacter_C_0 Component:StaticMesh BoneName:None (0 other events since notify)
+[2025.06.05-19.15.32:802][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.05-19.15.32:802][670]LogWorld: BeginTearingDown for /Game/content/maps/UEDPIE_0_mainmap
+[2025.06.05-19.15.32:803][670]LogWorld: UWorld::CleanupWorld for mainmap, bSessionEnded=true, bCleanupResources=true
+[2025.06.05-19.15.32:804][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.05-19.15.32:809][670]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.05-19.15.32:815][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.05-19.15.32:830][670]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.06.05-19.15.32:831][670]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2025.06.05-19.15.32:831][670]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.06.05-19.15.32:833][670]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.06.05-19.15.32:839][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.05-19.15.32:844][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.06.05-19.15.32:887][671]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2025.06.05-19.15.41:637][175]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.05-19.15.41:691][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter" FILE="../../../../../projekt/kaktussss/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2025.06.05-19.15.41:722][175]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.06.05-19.15.41:723][175]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/BP_ThirdPersonCharacterBF2DAE7548A887BD57A16180FFEE3E17.tmp' to '../../../../../projekt/kaktussss/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.06.05-19.15.41:730][175]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 7.68 sec)
+[2025.06.05-19.15.41:731][175]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2025.06.05-19.15.41:731][175]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.06.05-19.15.43:801][318]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.05-19.15.43:818][318]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.05-19.15.43:818][318]PIE: New page: PIE session: mainmap (5 cze 2025, 23:15:43)
+[2025.06.05-19.15.43:818][318]LogPlayLevel: Creating play world package: /Game/content/maps/UEDPIE_0_mainmap
+[2025.06.05-19.15.43:832][318]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014563s)
+[2025.06.05-19.15.43:832][318]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/content/maps/mainmap.mainmap to /Game/content/maps/UEDPIE_0_mainmap.mainmap (0.014594s)
+[2025.06.05-19.15.43:847][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.06.05-19.15.43:850][318]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.06.05-19.15.43:850][318]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.06.05-19.15.43:850][318]LogAIModule: Creating AISystem for world mainmap
+[2025.06.05-19.15.43:851][318]LogPlayLevel: PIE: World Init took: (0.000978s)
+[2025.06.05-19.15.43:851][318]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2025.06.05-19.15.43:851][318]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.05-19.15.43:851][318]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.05-19.15.43:851][318]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.05-19.15.43:851][318]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.05-19.15.43:851][318]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.05-19.15.43:851][318]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.05-19.15.43:851][318]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.05-19.15.43:851][318]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.05-19.15.43:851][318]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.05-19.15.43:851][318]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.05-19.15.43:851][318]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.05-19.15.43:853][318]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.05-19.15.43:876][318]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2025.06.05-19.15.43:877][318]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.05-19.15.43:877][318]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.05-19.15.43:877][318]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.05-19.15.43:877][318]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2025.06.05-19.15.43:877][318]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2025.06.05-19.15.43:879][318]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2025.06.05-19.15.43:879][318]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2025.06.05-19.15.43:879][318]LogInit: FAudioDevice initialized with ID 19.
+[2025.06.05-19.15.43:879][318]LogAudio: Display: Audio Device (ID: 19) registered with world 'mainmap'.
+[2025.06.05-19.15.43:879][318]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2025.06.05-19.15.43:881][318]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.06.05-19.15.43:901][318]LogWorld: Bringing World /Game/content/maps/UEDPIE_0_mainmap.mainmap up for play (max tick rate 0) at 2025.06.05-21.15.43
+[2025.06.05-19.15.43:903][318]LogWorld: Bringing up level for play took: 0.020302
+[2025.06.05-19.15.43:905][318]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2025.06.05-19.15.43:908][318]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.43:908][318]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.43:908][318]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.43:908][318]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.43:908][318]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.43:908][318]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.43:908][318]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.43:908][318]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.43:908][318]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.43:908][318]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.43:908][318]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.43:908][318]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.43:908][318]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.43:908][318]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.43:909][318]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.43:909][318]LogBlueprintUserMessages: [DMsystem] 0.1
+[2025.06.05-19.15.43:909][318]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.43:909][318]LogBlueprintUserMessages: [DMsystem] 0.1
+[2025.06.05-19.15.43:909][318]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.43:910][318]LogBlueprintUserMessages: [DMsystem] 0.1
+[2025.06.05-19.15.43:910][318]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.43:910][318]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.43:910][318]LogBlueprintUserMessages: [DMsystem] 0.1
+[2025.06.05-19.15.43:910][318]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.43:912][318]LogBlueprintUserMessages: [USERINTERFACE_C_0] 0
+[2025.06.05-19.15.43:912][318]LogBlueprintUserMessages: [USERINTERFACE_C_0] niema
+[2025.06.05-19.15.43:912][318]LogBlueprintUserMessages: [USERINTERFACE_C_0] 0
+[2025.06.05-19.15.43:912][318]LogBlueprintUserMessages: [USERINTERFACE_C_0] niema
+[2025.06.05-19.15.43:912][318]PIE: Server logged in
+[2025.06.05-19.15.43:913][318]PIE: Play in editor total start time 0,101 seconds.
+[2025.06.05-19.15.43:945][319]LogBlueprintUserMessages: [movetorandomlocation_C_2] movmentproblem
+[2025.06.05-19.15.48:351][665]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.48:362][666]LogBlueprintUserMessages: [movetorandomlocation_C_1] movmentproblem
+[2025.06.05-19.15.49:812][784]LogBlueprintUserMessages: [DMsystem] 0.9
+[2025.06.05-19.15.49:812][784]LogBlueprintUserMessages: [USERINTERFACE_C_0] 0
+[2025.06.05-19.15.49:812][784]LogBlueprintUserMessages: [USERINTERFACE_C_0] niema
+[2025.06.05-19.15.55:839][269]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.55:840][269]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.55:840][269]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.55:852][270]LogBlueprintUserMessages: [movetorandomlocation_C_2] movmentproblem
+[2025.06.05-19.15.56:289][304]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.56:301][305]LogBlueprintUserMessages: [movetorandomlocation_C_1] movmentproblem
+[2025.06.05-19.15.56:378][311]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.05-19.15.56:390][312]LogBlueprintUserMessages: [movetorandomlocation_C_1] movmentproblem
+[2025.06.05-19.15.56:565][326]LogBlueprintUserMessages: [DMsystem] 0.8
+[2025.06.05-19.15.56:565][326]LogBlueprintUserMessages: [USERINTERFACE_C_0] 0
+[2025.06.05-19.15.56:565][326]LogBlueprintUserMessages: [USERINTERFACE_C_0] niema
+[2025.06.05-19.15.56:622][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.05-19.15.56:622][327]LogWorld: BeginTearingDown for /Game/content/maps/UEDPIE_0_mainmap
+[2025.06.05-19.15.56:623][327]LogWorld: UWorld::CleanupWorld for mainmap, bSessionEnded=true, bCleanupResources=true
+[2025.06.05-19.15.56:624][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.05-19.15.56:629][327]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.05-19.15.56:635][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.05-19.15.56:651][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.05-19.15.56:651][327]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2025.06.05-19.15.56:651][327]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.06.05-19.15.56:653][327]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.06.05-19.15.56:662][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.06.05-19.15.56:704][328]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2025.06.05-19.16.11:883][649]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.05-19.16.11:932][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter" FILE="../../../../../projekt/kaktussss/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2025.06.05-19.16.11:963][649]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.06.05-19.16.11:964][649]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/BP_ThirdPersonCharacterC35F59514CCA9F543306A7B12F6258D0.tmp' to '../../../../../projekt/kaktussss/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.06.05-19.16.11:971][649]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 7.77 sec)
+[2025.06.05-19.16.11:973][649]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2025.06.05-19.16.11:973][649]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
