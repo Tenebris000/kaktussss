@@ -6260,3 +6260,1010 @@ Make sure 'gostekgostkowy_C' has been compiled for  Get atakuje
 [2025.06.06-08.04.32:979][253]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4852.335938
 [2025.06.06-08.04.33:145][268]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.06.06-08.04.33:145][268]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4852.490234, Update Interval: 316.798615
+[2025.06.06-08.05.53:144][256]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.06.06-08.05.53:144][256]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.06.06-08.05.53:175][256]LogViewport: Scene viewport resized to 320x240, mode Windowed.
+[2025.06.06-08.06.04:407][ 90]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-08.06.04:407][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-08.06.05:514][183]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.06.06-08.06.05:514][183]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.06.06-08.06.05:586][183]LogViewport: Scene viewport resized to 320x240, mode Windowed.
+[2025.06.06-08.06.05:858][201]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-08.06.05:858][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-08.06.06:748][276]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.06.06-08.06.06:748][276]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.06.06-08.06.06:774][276]LogViewport: Scene viewport resized to 320x240, mode Windowed.
+[2025.06.06-08.06.19:223][182]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-08.06.19:223][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-08.06.30:973][199]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.06-08.06.31:037][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/animacje/WALK1_Montage" FILE="../../../../../projekt/kaktussss/Content/animacje/WALK1_Montage.uasset" SILENT=true
+[2025.06.06-08.06.31:042][199]LogSavePackage: Moving output files for package: /Game/animacje/WALK1_Montage
+[2025.06.06-08.06.31:042][199]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/WALK1_Montage8FAE55744D46488DE79BB79627E87713.tmp' to '../../../../../projekt/kaktussss/Content/animacje/WALK1_Montage.uasset'
+[2025.06.06-08.06.31:057][199]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 1:29 min)
+[2025.06.06-08.06.31:057][199]AssetCheck: New page: Asset Save: WALK1_Montage
+[2025.06.06-08.06.31:057][199]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/animacje/WALK1_Montage.WALK1_Montage
+[2025.06.06-08.06.36:655][661]BlueprintLog: New page: Compile gostekgostkowy
+[2025.06.06-08.06.36:696][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.06.06-08.06.37:330][710]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.06-08.06.37:368][710]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	gostekgostkowy_C /Engine/Transient.World_24:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.gostekgostkowy_C_318
+	Function /Game/animacjeinne/gostekgostkowy.gostekgostkowy_C:ExecuteUbergraph_gostekgostkowy:00E3
+[2025.06.06-08.06.37:368][710]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	gostekgostkowy_C /Engine/Transient.World_24:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.gostekgostkowy_C_318
+	Function /Game/animacjeinne/gostekgostkowy.gostekgostkowy_C:ExecuteUbergraph_gostekgostkowy:0136
+[2025.06.06-08.06.37:368][710]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	gostekgostkowy_C /Engine/Transient.World_24:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.gostekgostkowy_C_318
+	Function /Game/animacjeinne/gostekgostkowy.gostekgostkowy_C:ExecuteUbergraph_gostekgostkowy:001F
+[2025.06.06-08.06.37:375][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/animacjeinne/gostekgostkowy" FILE="../../../../../projekt/kaktussss/Content/animacjeinne/gostekgostkowy.uasset" SILENT=true
+[2025.06.06-08.06.37:405][710]LogSavePackage: Moving output files for package: /Game/animacjeinne/gostekgostkowy
+[2025.06.06-08.06.37:406][710]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/gostekgostkowy593B9425484519D3858681990A14CDCB.tmp' to '../../../../../projekt/kaktussss/Content/animacjeinne/gostekgostkowy.uasset'
+[2025.06.06-08.06.37:411][710]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 1:30 min)
+[2025.06.06-08.06.37:412][710]AssetCheck: New page: Asset Save: gostekgostkowy
+[2025.06.06-08.06.37:412][710]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/animacjeinne/gostekgostkowy.gostekgostkowy
+[2025.06.06-08.06.39:811][901]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.06-08.06.39:853][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/animacje/WALK1_Montage" FILE="../../../../../projekt/kaktussss/Content/animacje/WALK1_Montage.uasset" SILENT=true
+[2025.06.06-08.06.39:856][901]LogSavePackage: Moving output files for package: /Game/animacje/WALK1_Montage
+[2025.06.06-08.06.39:857][901]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/WALK1_Montage65DAAD6243EDF9692B4A5187DACB2AB7.tmp' to '../../../../../projekt/kaktussss/Content/animacje/WALK1_Montage.uasset'
+[2025.06.06-08.06.39:861][901]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 1:30 min)
+[2025.06.06-08.06.39:862][901]AssetCheck: New page: Asset Save: WALK1_Montage
+[2025.06.06-08.06.39:862][901]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/animacje/WALK1_Montage.WALK1_Montage
+[2025.06.06-08.10.48:170][901]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5227.298828
+[2025.06.06-08.10.48:360][918]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.06-08.10.48:360][918]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5227.477539, Update Interval: 326.327698
+[2025.06.06-08.11.44:671][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.06.06-08.11.44:673][940]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/content/maps/mainmap' took 0.018
+[2025.06.06-08.11.44:674][940]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/animacjeinne/gostekgostkowy] ([2] browsable assets)...
+[2025.06.06-08.11.44:674][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/animacjeinne/gostekgostkowy]
+[2025.06.06-08.11.44:674][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/animacjeinne/gostekgostkowy" FILE="../../../../../projekt/kaktussss/Saved/Autosaves/Game/animacjeinne/gostekgostkowy_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2025.06.06-08.11.44:704][940]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/animacjeinne/gostekgostkowy_Auto4
+[2025.06.06-08.11.44:704][940]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/gostekgostkowy_Auto4491C2496405D624238A2E3BA8C7C2F20.tmp' to '../../../../../projekt/kaktussss/Saved/Autosaves/Game/animacjeinne/gostekgostkowy_Auto4.uasset'
+[2025.06.06-08.11.44:705][940]LogFileHelpers: Auto-saving content packages took 0.031
+[2025.06.06-08.15.18:035][159]LogViewport: Scene viewport resized to 1433x1226, mode Windowed.
+[2025.06.06-08.15.47:115][511]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/animacje/ATTACK_LR1.ATTACK_LR1
+[2025.06.06-08.15.47:292][524]LogAnimationCompression: Display: Storing compressed animation data for /Game/animacje/ATTACK_LR1.ATTACK_LR1, at AnimationSequence/d048b86db5ca9c9d821e4566bbbda7087c812788
+[2025.06.06-08.15.48:322][647]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2025.06.06-08.15.48:345][647]LogBlueprint: Error: [AssetLog] D:\projekt\kaktussss\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select
+[2025.06.06-08.15.48:350][647]LogBlueprint: Error: [AssetLog] D:\projekt\kaktussss\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] The type of  Index  is undetermined.  Connect something to  Select  to imply a specific type.
+[2025.06.06-08.15.48:353][647]LogBlueprint: Error: [AssetLog] D:\projekt\kaktussss\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] The current value of the ' Index ' pin is invalid: Unsupported type Index Wildcard on pin Index
+[2025.06.06-08.15.48:397][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.06.06-08.15.48:956][690]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.06-08.15.49:021][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter" FILE="../../../../../projekt/kaktussss/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2025.06.06-08.15.49:055][690]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.06.06-08.15.49:056][690]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/BP_ThirdPersonCharacter1F5250A545CBE2EA58C008B5515D478D.tmp' to '../../../../../projekt/kaktussss/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.06.06-08.15.49:063][690]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 1:30 min)
+[2025.06.06-08.15.49:064][690]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2025.06.06-08.15.49:064][690]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.06.06-08.16.20:779][366]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2025.06.06-08.16.20:858][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.06.06-08.16.22:008][477]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.06-08.16.22:049][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter" FILE="../../../../../projekt/kaktussss/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2025.06.06-08.16.22:085][477]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.06.06-08.16.22:085][477]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/BP_ThirdPersonCharacterCC7A37F04972234BBC6C6EB386263082.tmp' to '../../../../../projekt/kaktussss/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.06.06-08.16.22:091][477]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 1:30 min)
+[2025.06.06-08.16.22:092][477]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2025.06.06-08.16.22:092][477]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.06.06-08.16.30:422][463]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.06-08.16.30:449][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter" FILE="../../../../../projekt/kaktussss/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2025.06.06-08.16.30:484][463]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.06.06-08.16.30:485][463]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/BP_ThirdPersonCharacter6BFC1C0840880C0C83517485D6A9BE36.tmp' to '../../../../../projekt/kaktussss/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.06.06-08.16.30:490][463]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 1:30 min)
+[2025.06.06-08.16.30:492][463]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2025.06.06-08.16.30:492][463]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.06.06-08.16.36:915][225]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.06-08.16.36:954][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter" FILE="../../../../../projekt/kaktussss/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2025.06.06-08.16.36:990][225]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.06.06-08.16.36:991][225]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/BP_ThirdPersonCharacterF4A6F78841388462610E009FF1048769.tmp' to '../../../../../projekt/kaktussss/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.06.06-08.16.36:997][225]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 1:30 min)
+[2025.06.06-08.16.36:998][225]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2025.06.06-08.16.36:998][225]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.06.06-08.16.41:293][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.06.06-08.16.41:300][738]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.06-08.16.41:341][738]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	gostekgostkowy_C /Engine/Transient.World_24:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.gostekgostkowy_C_319
+	Function /Game/animacjeinne/gostekgostkowy.gostekgostkowy_C:ExecuteUbergraph_gostekgostkowy:00E3
+[2025.06.06-08.16.41:341][738]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	gostekgostkowy_C /Engine/Transient.World_24:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.gostekgostkowy_C_319
+	Function /Game/animacjeinne/gostekgostkowy.gostekgostkowy_C:ExecuteUbergraph_gostekgostkowy:0136
+[2025.06.06-08.16.41:341][738]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	gostekgostkowy_C /Engine/Transient.World_24:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.gostekgostkowy_C_319
+	Function /Game/animacjeinne/gostekgostkowy.gostekgostkowy_C:ExecuteUbergraph_gostekgostkowy:001F
+[2025.06.06-08.16.41:348][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/animacjeinne/gostekgostkowy" FILE="../../../../../projekt/kaktussss/Content/animacjeinne/gostekgostkowy.uasset" SILENT=true
+[2025.06.06-08.16.41:586][738]LogSavePackage: Moving output files for package: /Game/animacjeinne/gostekgostkowy
+[2025.06.06-08.16.41:586][738]LogSavePackage: Moving '../../../../../projekt/kaktussss/Saved/gostekgostkowy2B59C0274D0DF1C6C1CFA39ECF673BD9.tmp' to '../../../../../projekt/kaktussss/Content/animacjeinne/gostekgostkowy.uasset'
+[2025.06.06-08.16.41:591][738]LogFileHelpers: InternalPromptForCheckoutAndSave took 291 ms (total: 1:30 min)
+[2025.06.06-08.16.41:592][738]AssetCheck: New page: Asset Save: gostekgostkowy
+[2025.06.06-08.16.41:592][738]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/animacjeinne/gostekgostkowy.gostekgostkowy
+[2025.06.06-08.16.58:828][112]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.06-08.16.58:839][112]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.06-08.16.58:839][112]PIE: New page: PIE session: mainmap (6 cze 2025, 12:16:58)
+[2025.06.06-08.16.58:840][112]LogPlayLevel: Creating play world package: /Game/content/maps/UEDPIE_0_mainmap
+[2025.06.06-08.16.58:856][112]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016312s)
+[2025.06.06-08.16.58:856][112]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/content/maps/mainmap.mainmap to /Game/content/maps/UEDPIE_0_mainmap.mainmap (0.016352s)
+[2025.06.06-08.16.58:871][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.06.06-08.16.58:872][112]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.06.06-08.16.58:872][112]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.06.06-08.16.58:873][112]LogAIModule: Creating AISystem for world mainmap
+[2025.06.06-08.16.58:873][112]LogPlayLevel: PIE: World Init took: (0.001051s)
+[2025.06.06-08.16.58:873][112]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.06.06-08.16.58:873][112]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.06-08.16.58:873][112]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.06-08.16.58:873][112]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.06-08.16.58:873][112]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.06-08.16.58:873][112]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.06-08.16.58:873][112]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.06-08.16.58:873][112]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.06-08.16.58:873][112]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.06-08.16.58:874][112]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.06-08.16.58:874][112]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.06-08.16.58:874][112]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.06-08.16.58:876][112]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.06-08.16.58:901][112]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2025.06.06-08.16.58:901][112]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.06-08.16.58:901][112]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.06-08.16.58:901][112]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.06-08.16.58:902][112]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.06.06-08.16.58:902][112]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.06.06-08.16.58:904][112]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.06.06-08.16.58:904][112]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.06.06-08.16.58:904][112]LogInit: FAudioDevice initialized with ID 11.
+[2025.06.06-08.16.58:904][112]LogAudio: Display: Audio Device (ID: 11) registered with world 'mainmap'.
+[2025.06.06-08.16.58:904][112]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.06.06-08.16.58:906][112]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.06.06-08.16.58:916][112]LogWorld: Bringing World /Game/content/maps/UEDPIE_0_mainmap.mainmap up for play (max tick rate 0) at 2025.06.06-10.16.58
+[2025.06.06-08.16.58:917][112]LogWorld: Bringing up level for play took: 0.010992
+[2025.06.06-08.16.58:920][112]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2025.06.06-08.16.58:921][112]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Set velocity Graph:  EventGraph Function:  Execute Ubergraph Gostekgostkowy Blueprint:  gostekgostkowy
+[2025.06.06-08.16.58:921][112]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Set IsWalking Graph:  EventGraph Function:  Execute Ubergraph Gostekgostkowy Blueprint:  gostekgostkowy
+[2025.06.06-08.16.58:921][112]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Set atakuje Graph:  EventGraph Function:  Execute Ubergraph Gostekgostkowy Blueprint:  gostekgostkowy
+[2025.06.06-08.16.58:923][112]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.16.58:923][112]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.16.58:923][112]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.16.58:923][112]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.16.58:923][112]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.16.58:923][112]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.16.58:923][112]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.16.58:923][112]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.16.58:923][112]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.16.58:923][112]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.16.58:923][112]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.16.58:923][112]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.16.58:923][112]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.16.58:923][112]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.16.58:924][112]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.16.58:924][112]LogBlueprintUserMessages: [DMsystem] 0.1
+[2025.06.06-08.16.58:924][112]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.16.58:925][112]LogBlueprintUserMessages: [DMsystem] 0.1
+[2025.06.06-08.16.58:925][112]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.16.58:925][112]LogBlueprintUserMessages: [DMsystem] 0.1
+[2025.06.06-08.16.58:925][112]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.16.58:925][112]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.16.58:925][112]LogBlueprintUserMessages: [DMsystem] 0.1
+[2025.06.06-08.16.58:925][112]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.16.58:925][112]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.16.58:925][112]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.16.58:925][112]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.16.58:925][112]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.16.58:925][112]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.16.58:926][112]LogBlueprintUserMessages: [USERINTERFACE_C_0] 0
+[2025.06.06-08.16.58:926][112]LogBlueprintUserMessages: [USERINTERFACE_C_0] niema
+[2025.06.06-08.16.58:926][112]PIE: Server logged in
+[2025.06.06-08.16.58:927][112]PIE: Play in editor total start time 0,088 seconds.
+[2025.06.06-08.16.58:963][113]LogBlueprintUserMessages: [movetorandomlocation_C_1] movmentproblem
+[2025.06.06-08.17.01:011][290]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5599.883789
+[2025.06.06-08.17.01:188][306]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.06-08.17.01:189][306]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5600.049316, Update Interval: 305.495178
+[2025.06.06-08.17.01:944][374]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.17.01:945][374]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.17.01:957][375]LogBlueprintUserMessages: [movetorandomlocation_C_1] movmentproblem
+[2025.06.06-08.17.01:957][375]LogBlueprintUserMessages: [movetorandomlocation_C_1] movmentproblem
+[2025.06.06-08.17.08:930][  0]LogBlueprintUserMessages: [pathfind_C_1] co jest
+[2025.06.06-08.17.09:616][ 61]LogBlueprintUserMessages: [pathfind_C_1] co jest
+[2025.06.06-08.17.09:672][ 66]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.17.09:673][ 66]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.17.09:673][ 66]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.17.09:685][ 67]LogBlueprintUserMessages: [movetorandomlocation_C_2] movmentproblem
+[2025.06.06-08.17.11:176][199]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.17.11:187][200]LogBlueprintUserMessages: [movetorandomlocation_C_1] movmentproblem
+[2025.06.06-08.17.12:717][334]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.17.12:718][334]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.17.12:718][334]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.17.12:832][344]LogBlueprintUserMessages: [DMsystem] 0.9
+[2025.06.06-08.17.12:833][344]LogBlueprintUserMessages: [DMsystem] 0.8
+[2025.06.06-08.17.14:068][453]LogBlueprintUserMessages: [movetorandomlocation_C_2] movmentproblem
+[2025.06.06-08.17.14:136][459]LogBlueprintUserMessages: [movetorandomlocation_C_2] movmentproblem
+[2025.06.06-08.17.14:706][509]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.17.14:717][510]LogBlueprintUserMessages: [movetorandomlocation_C_1] movmentproblem
+[2025.06.06-08.17.14:981][533]LogBlueprintUserMessages: [movetorandomlocation_C_2] movmentproblem
+[2025.06.06-08.17.15:503][578]LogBlueprintUserMessages: [pathfind_C_1] co jest
+[2025.06.06-08.17.15:503][578]LogBlueprintUserMessages: [pathfind_C_1] co jest
+[2025.06.06-08.17.15:552][582]LogBlueprintUserMessages: [movetorandomlocation_C_2] movmentproblem
+[2025.06.06-08.17.15:737][598]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.17.15:737][598]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.17.15:738][598]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.17.15:888][611]LogBlueprintUserMessages: [DMsystem] 0.7
+[2025.06.06-08.17.15:888][611]LogBlueprintUserMessages: [DMsystem] 0.6
+[2025.06.06-08.17.15:900][612]LogBlueprintUserMessages: [DMsystem] 0.5
+[2025.06.06-08.17.16:530][666]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.17.16:541][667]LogBlueprintUserMessages: [movetorandomlocation_C_1] movmentproblem
+[2025.06.06-08.17.18:016][795]LogBlueprintUserMessages: [movetorandomlocation_C_1] movmentproblem
+[2025.06.06-08.17.18:062][799]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.17.18:062][799]LogBlueprintUserMessages: [movetorandomlocation_C_2] movmentproblem
+[2025.06.06-08.17.18:754][859]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.17.18:755][859]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.17.18:755][859]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.17.19:054][883]LogBlueprintUserMessages: [DMsystem] 0.4
+[2025.06.06-08.17.20:119][974]LogBlueprintUserMessages: [DMsystem] 0.09
+[2025.06.06-08.17.20:131][975]LogBlueprintUserMessages: [DMsystem] 0.08
+[2025.06.06-08.17.20:156][977]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.17.20:179][979]LogBlueprintUserMessages: [DMsystem] 0.07
+[2025.06.06-08.17.20:190][980]LogBlueprintUserMessages: [DMsystem] 0.06
+[2025.06.06-08.17.20:305][990]LogBlueprintUserMessages: [DMsystem] 0.3
+[2025.06.06-08.17.21:523][ 95]LogBlueprintUserMessages: [DMsystem] 0.2
+[2025.06.06-08.17.25:233][414]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.17.25:233][414]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.17.25:234][414]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.17.25:245][415]LogBlueprintUserMessages: [movetorandomlocation_C_2] movmentproblem
+[2025.06.06-08.17.25:790][462]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.17.25:801][463]LogBlueprintUserMessages: [movetorandomlocation_C_1] movmentproblem
+[2025.06.06-08.17.26:078][487]LogBlueprintUserMessages: [DMsystem] 0.1
+[2025.06.06-08.17.26:544][527]LogBlueprintUserMessages: [DMsystem] 0.0
+[2025.06.06-08.17.26:544][527]LogBlueprintUserMessages: [movetorandomlocation_C_2] movmentproblem
+[2025.06.06-08.17.26:555][528]LogBlueprintUserMessages: [DMsystem] 0.0
+[2025.06.06-08.17.28:207][670]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.17.28:267][675]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.17.28:267][675]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.17.28:268][675]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.17.28:349][682]LogBlueprintUserMessages: [DMsystem] -0.1
+[2025.06.06-08.17.29:049][742]LogBlueprintUserMessages: [DMsystem] -0.2
+[2025.06.06-08.17.29:049][742]LogBlueprintUserMessages: [DMsystem] cast fail
+[2025.06.06-08.17.29:720][801]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	shotnormal_C /Game/content/maps/UEDPIE_0_mainmap.mainmap:PersistentLevel.EnemyControler_C_2.BTComponent.shotnormal_C_0
+	Function /Game/content/AI/reworver/shotnormal.shotnormal_C:ExecuteUbergraph_shotnormal:0068
+[2025.06.06-08.17.29:720][801]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Node:  SpawnActor Amo Graph:  EventGraph Function:  Execute Ubergraph Shotnormal Blueprint:  shotnormal
+[2025.06.06-08.17.29:720][801]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	shotnormal_C /Game/content/maps/UEDPIE_0_mainmap.mainmap:PersistentLevel.EnemyControler_C_2.BTComponent.shotnormal_C_0
+	Function /Game/content/AI/reworver/shotnormal.shotnormal_C:ExecuteUbergraph_shotnormal:01C7
+[2025.06.06-08.17.29:720][801]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Node:  SpawnActor Amo Graph:  EventGraph Function:  Execute Ubergraph Shotnormal Blueprint:  shotnormal
+[2025.06.06-08.17.29:721][801]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.17.31:246][934]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	shotnormal_C /Game/content/maps/UEDPIE_0_mainmap.mainmap:PersistentLevel.EnemyControler_C_2.BTComponent.shotnormal_C_0
+	Function /Game/content/AI/reworver/shotnormal.shotnormal_C:ExecuteUbergraph_shotnormal:0068
+[2025.06.06-08.17.31:246][934]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Node:  SpawnActor Amo Graph:  EventGraph Function:  Execute Ubergraph Shotnormal Blueprint:  shotnormal
+[2025.06.06-08.17.31:246][934]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	shotnormal_C /Game/content/maps/UEDPIE_0_mainmap.mainmap:PersistentLevel.EnemyControler_C_2.BTComponent.shotnormal_C_0
+	Function /Game/content/AI/reworver/shotnormal.shotnormal_C:ExecuteUbergraph_shotnormal:01C7
+[2025.06.06-08.17.31:246][934]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Node:  SpawnActor Amo Graph:  EventGraph Function:  Execute Ubergraph Shotnormal Blueprint:  shotnormal
+[2025.06.06-08.17.31:247][934]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.17.31:281][937]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	shotgunshot_C /Game/content/maps/UEDPIE_0_mainmap.mainmap:PersistentLevel.shotguncontrol_C_0.BTComponent.shotgunshot_C_0
+	Function /Game/content/AI/shotgun/shotgunshot.shotgunshot_C:ExecuteUbergraph_shotgunshot:0068
+[2025.06.06-08.17.31:281][937]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Node:  SpawnActor Amo Graph:  EventGraph Function:  Execute Ubergraph Shotgunshot Blueprint:  shotgunshot
+[2025.06.06-08.17.31:281][937]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	shotgunshot_C /Game/content/maps/UEDPIE_0_mainmap.mainmap:PersistentLevel.shotguncontrol_C_0.BTComponent.shotgunshot_C_0
+	Function /Game/content/AI/shotgun/shotgunshot.shotgunshot_C:ExecuteUbergraph_shotgunshot:022C
+[2025.06.06-08.17.31:281][937]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Node:  SpawnActor Amo Graph:  EventGraph Function:  Execute Ubergraph Shotgunshot Blueprint:  shotgunshot
+[2025.06.06-08.17.31:282][937]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.17.31:282][937]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	shotgunshot_C /Game/content/maps/UEDPIE_0_mainmap.mainmap:PersistentLevel.shotguncontrol_C_0.BTComponent.shotgunshot_C_0
+	Function /Game/content/AI/shotgun/shotgunshot.shotgunshot_C:ExecuteUbergraph_shotgunshot:03EC
+[2025.06.06-08.17.31:282][937]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Node:  SpawnActor Amo Graph:  EventGraph Function:  Execute Ubergraph Shotgunshot Blueprint:  shotgunshot
+[2025.06.06-08.17.31:282][937]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	shotgunshot_C /Game/content/maps/UEDPIE_0_mainmap.mainmap:PersistentLevel.shotguncontrol_C_0.BTComponent.shotgunshot_C_0
+	Function /Game/content/AI/shotgun/shotgunshot.shotgunshot_C:ExecuteUbergraph_shotgunshot:0618
+[2025.06.06-08.17.31:282][937]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Node:  SpawnActor Amo Graph:  EventGraph Function:  Execute Ubergraph Shotgunshot Blueprint:  shotgunshot
+[2025.06.06-08.17.31:283][937]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.17.31:283][937]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	shotgunshot_C /Game/content/maps/UEDPIE_0_mainmap.mainmap:PersistentLevel.shotguncontrol_C_0.BTComponent.shotgunshot_C_0
+	Function /Game/content/AI/shotgun/shotgunshot.shotgunshot_C:ExecuteUbergraph_shotgunshot:0840
+[2025.06.06-08.17.31:283][937]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Node:  SpawnActor Amo Graph:  EventGraph Function:  Execute Ubergraph Shotgunshot Blueprint:  shotgunshot
+[2025.06.06-08.17.31:283][937]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	shotgunshot_C /Game/content/maps/UEDPIE_0_mainmap.mainmap:PersistentLevel.shotguncontrol_C_0.BTComponent.shotgunshot_C_0
+	Function /Game/content/AI/shotgun/shotgunshot.shotgunshot_C:ExecuteUbergraph_shotgunshot:0A6C
+[2025.06.06-08.17.31:283][937]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Node:  SpawnActor Amo Graph:  EventGraph Function:  Execute Ubergraph Shotgunshot Blueprint:  shotgunshot
+[2025.06.06-08.17.31:283][937]LogBlueprintUserMessages: [DMsystem] dieieeie
+[2025.06.06-08.17.32:349][ 31]LogNet: Browse: /Game/content/maps/menumap
+[2025.06.06-08.17.32:349][ 31]LogLoad: LoadMap: /Game/content/maps/menumap
+[2025.06.06-08.17.32:349][ 31]LogWorld: BeginTearingDown for /Game/content/maps/UEDPIE_0_mainmap
+[2025.06.06-08.17.32:363][ 31]LogWorld: UWorld::CleanupWorld for mainmap, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-08.17.32:364][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-08.17.32:385][ 31]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.06.06-08.17.32:393][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.06.06-08.17.32:408][ 31]LogAudio: Display: Audio Device (ID: 11) registered with world 'menumap'.
+[2025.06.06-08.17.32:408][ 31]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.06.06-08.17.32:408][ 31]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.06.06-08.17.32:408][ 31]LogAIModule: Creating AISystem for world menumap
+[2025.06.06-08.17.32:409][ 31]LogPlayLevel: PIE: World Init took: (0.000820s)
+[2025.06.06-08.17.32:409][ 31]LogLoad: Game class is 'menu_C'
+[2025.06.06-08.17.32:409][ 31]LogWorld: Bringing World /Game/content/maps/UEDPIE_0_menumap.menumap up for play (max tick rate 0) at 2025.06.06-10.17.32
+[2025.06.06-08.17.32:409][ 31]LogWorld: Bringing up level for play took: 0.000446
+[2025.06.06-08.17.32:410][ 31]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.06.06-08.17.32:411][ 31]LogLoad: Took 0.061271 seconds to LoadMap(/Game/content/maps/menumap)
+[2025.06.06-08.17.34:981][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.06-08.17.34:981][328]LogWorld: BeginTearingDown for /Game/content/maps/UEDPIE_0_menumap
+[2025.06.06-08.17.34:981][328]LogWorld: UWorld::CleanupWorld for menumap, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-08.17.34:981][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-08.17.34:983][328]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.06-08.17.34:989][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-08.17.35:002][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.06-08.17.35:002][328]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.06.06-08.17.35:002][328]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.06.06-08.17.35:004][328]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.06.06-08.17.35:011][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.06.06-08.17.35:173][329]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2025.06.06-08.17.36:441][392]LogSlate: Window 'Message Log' being destroyed
+[2025.06.06-08.17.36:462][392]LogSlate: Window 'Message Log' being destroyed
+[2025.06.06-08.19.34:561][431]Cmd: TRANSACTION UNDO
+[2025.06.06-08.19.34:561][431]LogEditorTransaction: Undo Rotate Bone
+[2025.06.06-08.19.35:299][431]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.06.06-08.19.35:303][431]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.06.06-08.19.35:337][431]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.06.06-08.19.35:338][431]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.06.06-08.19.43:488][ 72]Cmd: TRANSACTION UNDO
+[2025.06.06-08.19.43:488][ 72]LogEditorTransaction: Undo Rotate Bone
+[2025.06.06-08.19.44:225][ 72]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.06.06-08.19.44:230][ 72]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.06.06-08.19.44:256][ 72]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.06.06-08.19.44:256][ 72]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.06.06-08.19.49:599][440]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-08.19.49:600][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-08.19.49:648][440]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-08.19.49:648][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-08.19.50:825][555]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-08.19.50:825][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-08.19.50:873][555]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-08.19.50:873][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-08.20.18:857][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.06.06-08.20.20:752][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.06.06-08.20.20:754][165]LogStall: Shutdown...
+[2025.06.06-08.20.20:761][165]LogStall: Shutdown complete.
+[2025.06.06-08.20.20:832][165]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-08.20.20:832][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-08.20.20:954][165]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-08.20.20:954][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-08.20.20:969][165]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-08.20.20:969][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-08.20.20:988][165]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-08.20.20:988][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-08.20.21:076][165]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-08.20.21:076][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-08.20.21:091][165]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-08.20.21:091][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-08.20.21:152][165]LogSlate: Window 'kaktus - Unreal Editor' being destroyed
+[2025.06.06-08.20.21:239][166]Cmd: QUIT_EDITOR
+[2025.06.06-08.20.21:239][166]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.06.06-08.20.21:244][166]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.06.06-08.20.21:244][166]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.06.06-08.20.21:244][166]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.06.06-08.20.21:246][166]LogWorld: UWorld::CleanupWorld for mainmap, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-08.20.21:246][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.06-08.20.21:258][166]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.06.06-08.20.21:835][166]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.06.06-08.20.21:835][166]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.06.06-08.20.21:835][166]LogAudio: Display: Audio Device unregistered from world 'mainmap'.
+[2025.06.06-08.20.21:835][166]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2025.06.06-08.20.21:835][166]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.06.06-08.20.21:837][166]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.06.06-08.20.21:843][166]LogAudio: Display: Audio Device Manager Shutdown
+[2025.06.06-08.20.21:844][166]LogWindowsTextInputMethodSystem: Activated input method: Polski (Polska) - (Keyboard).
+[2025.06.06-08.20.21:853][166]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.06.06-08.20.21:853][166]LogExit: Preparing to exit.
+[2025.06.06-08.20.21:888][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.06.06-08.20.21:917][166]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.06-08.20.21:917][166]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.06-08.20.21:917][166]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.06-08.20.21:917][166]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.06-08.20.21:917][166]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.06-08.20.21:917][166]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.06-08.20.21:917][166]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.06-08.20.21:917][166]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.06-08.20.21:917][166]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.06-08.20.21:917][166]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.06-08.20.21:917][166]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.06-08.20.21:917][166]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.06-08.20.21:917][166]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.06-08.20.21:917][166]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.06-08.20.21:917][166]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.06-08.20.21:917][166]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.06-08.20.21:917][166]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.06-08.20.21:917][166]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.06-08.20.21:917][166]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.06-08.20.21:917][166]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.06-08.20.22:457][166]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-08.20.22:461][166]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-08.20.22:466][166]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-08.20.22:469][166]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-08.20.22:472][166]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-08.20.22:474][166]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-08.20.22:477][166]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-08.20.22:478][166]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-08.20.22:481][166]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-08.20.22:484][166]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-08.20.22:486][166]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-08.20.22:488][166]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-08.20.22:490][166]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-08.20.22:492][166]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-08.20.22:494][166]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-08.20.22:496][166]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-08.20.22:498][166]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-08.20.22:500][166]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-08.20.22:502][166]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.06.06-08.20.22:620][166]LogExit: Editor shut down
+[2025.06.06-08.20.22:622][166]LogExit: Transaction tracking system shut down
+[2025.06.06-08.20.22:626][166]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.06.06-08.20.22:800][166]LogExit: Object subsystem successfully closed.
+[2025.06.06-08.20.22:806][166]LogShaderCompilers: Display: ================================================
+[2025.06.06-08.20.22:806][166]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.06.06-08.20.22:806][166]LogShaderCompilers: Display: Total job queries 150, among them cache hits 16 (10.67%)
+[2025.06.06-08.20.22:806][166]LogShaderCompilers: Display: Tracking 63 distinct input hashes that result in 35 distinct outputs (55.56%)
+[2025.06.06-08.20.22:806][166]LogShaderCompilers: Display: RAM used: 1,40 MiB of 1,60 GiB budget. Usage: 0.09%
+[2025.06.06-08.20.22:806][166]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.06.06-08.20.22:806][166]LogShaderCompilers: Display: Shaders Compiled: 63
+[2025.06.06-08.20.22:806][166]LogShaderCompilers: Display: Jobs assigned 63, completed 63 (100%)
+[2025.06.06-08.20.22:806][166]LogShaderCompilers: Display: Average time worker was idle: 52.93 s
+[2025.06.06-08.20.22:806][166]LogShaderCompilers: Display: Time job spent in pending queue: average 0.47 s, longest 1.23 s
+[2025.06.06-08.20.22:806][166]LogShaderCompilers: Display: Job execution time: average 0.45 s, max 1.34 s
+[2025.06.06-08.20.22:807][166]LogShaderCompilers: Display: Job life time (pending + execution): average 0.92 s, max 1.55
+[2025.06.06-08.20.22:807][166]LogShaderCompilers: Display: Shader code size: average 35,762 KiB, min 4,477 KiB, max 70,504 KiB
+[2025.06.06-08.20.22:807][166]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.87 s
+[2025.06.06-08.20.22:807][166]LogShaderCompilers: Display: Jobs were issued in 63 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.06.06-08.20.22:807][166]LogShaderCompilers: Display: Average processing rate: 10.74 jobs/sec
+[2025.06.06-08.20.22:807][166]LogShaderCompilers: Display: Total thread time: 16,902 s
+[2025.06.06-08.20.22:807][166]LogShaderCompilers: Display: Total thread preprocess time: 1,716 s
+[2025.06.06-08.20.22:807][166]LogShaderCompilers: Display: Percentage time preprocessing: 10.15%
+[2025.06.06-08.20.22:807][166]LogShaderCompilers: Display: Effective parallelization: 2.88 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.06.06-08.20.22:807][166]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.06.06-08.20.22:807][166]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    3 times, average 0.33 sec, max 0.36 sec, min 0.30 sec)
+[2025.06.06-08.20.22:807][166]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   12 times, average 0.32 sec, max 0.38 sec, min 0.26 sec)
+[2025.06.06-08.20.22:807][166]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2025.06.06-08.20.22:807][166]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    9 times, average 0.30 sec, max 0.32 sec, min 0.27 sec)
+[2025.06.06-08.20.22:807][166]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    3 times, average 0.29 sec, max 0.30 sec, min 0.28 sec)
+[2025.06.06-08.20.22:807][166]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.06.06-08.20.22:807][166]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 22.93% of total time (compiled   12 times, average 0.32 sec, max 0.38 sec, min 0.26 sec)
+[2025.06.06-08.20.22:807][166]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 20.85% of total time (compiled   12 times, average 0.29 sec, max 0.36 sec, min 0.22 sec)
+[2025.06.06-08.20.22:807][166]LogShaderCompilers: Display:                                                 FLumenCardVS - 15.83% of total time (compiled    9 times, average 0.30 sec, max 0.32 sec, min 0.27 sec)
+[2025.06.06-08.20.22:807][166]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.15% of total time (compiled    9 times, average 0.13 sec, max 0.16 sec, min 0.12 sec)
+[2025.06.06-08.20.22:807][166]LogShaderCompilers: Display:                                                  FHitProxyVS - 6.73% of total time (compiled    4 times, average 0.28 sec, max 0.32 sec, min 0.22 sec)
+[2025.06.06-08.20.22:807][166]LogShaderCompilers: Display: ================================================
+[2025.06.06-08.20.22:815][166]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.06.06-08.20.22:835][166]LogVirtualization: UE::Virtualization was shutdown
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module AnimationEditor (1068)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module SequencerWidgets (1066)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (1064)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module Voice (1062)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module PinnedCommandList (1060)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module SkeletonEditor (1058)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1056)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module AddContentDialog (1054)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1053)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1048)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module SceneOutliner (1046)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module StatusBar (1044)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1042)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1040)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module DataLayerEditor (1038)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module StatsViewer (1036)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (1034)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module AutomationWorker (1032)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module PlanarCut (1030)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module FractureEngine (1028)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module CharacterAI (1026)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module SmartSnapping (1024)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module TextureAlignMode (1022)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module BspMode (1020)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module GeometryMode (1018)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (1016)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module WaveTableEditor (1014)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (1012)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module RigVMEditor (1010)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module GooglePADEditor (1008)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (1006)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (1004)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module IKRigEditor (1002)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module ControlRigEditor (1000)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (998)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (996)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (994)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (992)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (990)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (988)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (986)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module WebMMedia (984)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (982)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (980)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (978)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module SequenceRecorder (977)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (974)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (972)
+[2025.06.06-08.20.22:848][166]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (970)
+[2025.06.06-08.20.22:849][166]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (968)
+[2025.06.06-08.20.22:849][166]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (966)
+[2025.06.06-08.20.22:849][166]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (964)
+[2025.06.06-08.20.22:849][166]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (962)
+[2025.06.06-08.20.22:849][166]LogModuleManager: Shutting down and abandoning module SessionServices (960)
+[2025.06.06-08.20.22:851][166]LogModuleManager: Shutting down and abandoning module MeshPaint (958)
+[2025.06.06-08.20.22:851][166]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (956)
+[2025.06.06-08.20.22:851][166]LogModuleManager: Shutting down and abandoning module PlacementMode (955)
+[2025.06.06-08.20.22:851][166]LogModuleManager: Shutting down and abandoning module FoliageEdit (952)
+[2025.06.06-08.20.22:851][166]LogModuleManager: Shutting down and abandoning module LandscapeEditor (950)
+[2025.06.06-08.20.22:851][166]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (948)
+[2025.06.06-08.20.22:851][166]LogModuleManager: Shutting down and abandoning module ActorPickerMode (946)
+[2025.06.06-08.20.22:851][166]LogModuleManager: Shutting down and abandoning module ViewportSnapping (944)
+[2025.06.06-08.20.22:851][166]LogModuleManager: Shutting down and abandoning module EditorWidgets (942)
+[2025.06.06-08.20.22:851][166]LogModuleManager: Shutting down and abandoning module ViewportInteraction (940)
+[2025.06.06-08.20.22:852][166]LogModuleManager: Shutting down and abandoning module ClothPainter (938)
+[2025.06.06-08.20.22:852][166]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (937)
+[2025.06.06-08.20.22:852][166]LogModuleManager: Shutting down and abandoning module WidgetRegistration (934)
+[2025.06.06-08.20.22:852][166]LogModuleManager: Shutting down and abandoning module LogVisualizer (932)
+[2025.06.06-08.20.22:852][166]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (930)
+[2025.06.06-08.20.22:852][166]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (928)
+[2025.06.06-08.20.22:852][166]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (927)
+[2025.06.06-08.20.22:852][166]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (925)
+[2025.06.06-08.20.23:628][166]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (922)
+[2025.06.06-08.20.23:628][166]LogModuleManager: Shutting down and abandoning module MacPlatformEditor (920)
+[2025.06.06-08.20.23:628][166]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (918)
+[2025.06.06-08.20.23:628][166]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (916)
+[2025.06.06-08.20.23:628][166]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (914)
+[2025.06.06-08.20.23:628][166]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (912)
+[2025.06.06-08.20.23:628][166]LogModuleManager: Shutting down and abandoning module AnimationSettings (910)
+[2025.06.06-08.20.23:628][166]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (908)
+[2025.06.06-08.20.23:628][166]LogModuleManager: Shutting down and abandoning module CSVtoSVG (906)
+[2025.06.06-08.20.23:628][166]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (904)
+[2025.06.06-08.20.23:628][166]LogModuleManager: Shutting down and abandoning module EditorConfig (902)
+[2025.06.06-08.20.23:628][166]LogModuleManager: Shutting down and abandoning module EditorFramework (900)
+[2025.06.06-08.20.23:628][166]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (898)
+[2025.06.06-08.20.23:628][166]LogModuleManager: Shutting down and abandoning module TraceInsights (896)
+[2025.06.06-08.20.23:628][166]MemoryProfiler: Shutdown
+[2025.06.06-08.20.23:628][166]NetworkingProfiler: Shutdown
+[2025.06.06-08.20.23:628][166]LoadingProfiler: Shutdown
+[2025.06.06-08.20.23:628][166]TimingProfiler: Shutdown
+[2025.06.06-08.20.23:628][166]LogModuleManager: Shutting down and abandoning module TraceServices (895)
+[2025.06.06-08.20.23:628][166]LogModuleManager: Shutting down and abandoning module TraceAnalysis (894)
+[2025.06.06-08.20.23:628][166]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (890)
+[2025.06.06-08.20.23:628][166]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (889)
+[2025.06.06-08.20.23:628][166]LogModuleManager: Shutting down and abandoning module InputBindingEditor (886)
+[2025.06.06-08.20.23:628][166]LogModuleManager: Shutting down and abandoning module MergeActors (884)
+[2025.06.06-08.20.23:628][166]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (882)
+[2025.06.06-08.20.23:629][166]LogModuleManager: Shutting down and abandoning module LocalizationService (881)
+[2025.06.06-08.20.23:629][166]LogModuleManager: Shutting down and abandoning module HardwareTargeting (878)
+[2025.06.06-08.20.23:629][166]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (876)
+[2025.06.06-08.20.23:629][166]LogModuleManager: Shutting down and abandoning module UndoHistory (874)
+[2025.06.06-08.20.23:629][166]LogModuleManager: Shutting down and abandoning module XmlParser (872)
+[2025.06.06-08.20.23:629][166]LogModuleManager: Shutting down and abandoning module Blutility (870)
+[2025.06.06-08.20.23:629][166]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (868)
+[2025.06.06-08.20.23:629][166]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (867)
+[2025.06.06-08.20.23:629][166]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (864)
+[2025.06.06-08.20.23:629][166]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (863)
+[2025.06.06-08.20.23:629][166]LogModuleManager: Shutting down and abandoning module SettingsEditor (860)
+[2025.06.06-08.20.23:629][166]LogModuleManager: Shutting down and abandoning module ProjectLauncher (858)
+[2025.06.06-08.20.23:629][166]LogModuleManager: Shutting down and abandoning module SessionFrontend (856)
+[2025.06.06-08.20.23:629][166]LogModuleManager: Shutting down and abandoning module ProfilerClient (854)
+[2025.06.06-08.20.23:629][166]LogModuleManager: Shutting down and abandoning module DeviceManager (852)
+[2025.06.06-08.20.23:629][166]LogModuleManager: Shutting down and abandoning module AutomationController (850)
+[2025.06.06-08.20.23:629][166]LogModuleManager: Shutting down and abandoning module AutomationWindow (848)
+[2025.06.06-08.20.23:629][166]LogModuleManager: Shutting down and abandoning module Layers (846)
+[2025.06.06-08.20.23:629][166]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (844)
+[2025.06.06-08.20.23:629][166]LogModuleManager: Shutting down and abandoning module DetailCustomizations (842)
+[2025.06.06-08.20.23:629][166]LogModuleManager: Shutting down and abandoning module PackagesDialog (840)
+[2025.06.06-08.20.23:629][166]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (838)
+[2025.06.06-08.20.23:629][166]LogModuleManager: Shutting down and abandoning module Persona (836)
+[2025.06.06-08.20.23:629][166]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (835)
+[2025.06.06-08.20.23:629][166]LogModuleManager: Shutting down and abandoning module Kismet (832)
+[2025.06.06-08.20.23:638][166]LogModuleManager: Shutting down and abandoning module KismetWidgets (831)
+[2025.06.06-08.20.23:638][166]LogModuleManager: Shutting down and abandoning module GraphEditor (828)
+[2025.06.06-08.20.23:638][166]LogModuleManager: Shutting down and abandoning module StructViewer (826)
+[2025.06.06-08.20.23:638][166]LogModuleManager: Shutting down and abandoning module ClassViewer (824)
+[2025.06.06-08.20.23:641][166]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (822)
+[2025.06.06-08.20.23:641][166]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (820)
+[2025.06.06-08.20.23:641][166]LogModuleManager: Shutting down and abandoning module SourceControlWindows (818)
+[2025.06.06-08.20.23:641][166]LogModuleManager: Shutting down and abandoning module OutputLog (816)
+[2025.06.06-08.20.23:641][166]LogModuleManager: Shutting down and abandoning module Documentation (814)
+[2025.06.06-08.20.23:641][166]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (812)
+[2025.06.06-08.20.23:641][166]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (810)
+[2025.06.06-08.20.23:641][166]LogModuleManager: Shutting down and abandoning module MovieScene (808)
+[2025.06.06-08.20.23:642][166]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (806)
+[2025.06.06-08.20.23:642][166]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (804)
+[2025.06.06-08.20.23:642][166]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (802)
+[2025.06.06-08.20.23:642][166]LogModuleManager: Shutting down and abandoning module AudioMixer (801)
+[2025.06.06-08.20.23:642][166]LogModuleManager: Shutting down and abandoning module AudioMixerCore (800)
+[2025.06.06-08.20.23:642][166]LogModuleManager: Shutting down and abandoning module LauncherPlatform (796)
+[2025.06.06-08.20.23:642][166]LogModuleManager: Shutting down and abandoning module AnalyticsET (794)
+[2025.06.06-08.20.23:642][166]LogModuleManager: Shutting down and abandoning module PortalServices (792)
+[2025.06.06-08.20.23:642][166]LogModuleManager: Shutting down and abandoning module PortalRpc (790)
+[2025.06.06-08.20.23:642][166]LogModuleManager: Shutting down and abandoning module MessagingRpc (788)
+[2025.06.06-08.20.23:642][166]LogModuleManager: Shutting down and abandoning module AIModule (786)
+[2025.06.06-08.20.23:642][166]LogModuleManager: Shutting down and abandoning module GameplayDebugger (785)
+[2025.06.06-08.20.23:642][166]LogModuleManager: Shutting down and abandoning module AITestSuite (783)
+[2025.06.06-08.20.23:642][166]LogModuleManager: Shutting down and abandoning module NavigationSystem (781)
+[2025.06.06-08.20.23:642][166]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (778)
+[2025.06.06-08.20.23:642][166]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (776)
+[2025.06.06-08.20.23:642][166]LogModuleManager: Shutting down and abandoning module TypedElementFramework (774)
+[2025.06.06-08.20.23:642][166]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (772)
+[2025.06.06-08.20.23:642][166]LogModuleManager: Shutting down and abandoning module ProfilerService (770)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (768)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (766)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (764)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (762)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (760)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module TakesCore (758)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module Fab (756)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module MegascansPlugin (754)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module Bridge (752)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module LightMixer (750)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (748)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (746)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module PortableObjectFileDataSource (744)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (742)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (740)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module CollectionManager (739)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module ToolPresetEditor (736)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module ToolPresetAsset (734)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module StructUtilsTestSuite (732)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module StructUtilsNodes (730)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module StructUtilsEditor (728)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module StructUtilsEngine (726)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (724)
+[2025.06.06-08.20.23:660][166]LogOpenImageDenoise: OIDN shutting down
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module MeshLODToolset (722)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module SkeletalMeshModifiers (720)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (718)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (716)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (714)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (712)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module LocalizableMessageBlueprint (710)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module LocalizableMessage (708)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (706)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (704)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (702)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (700)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (698)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (697)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (695)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (692)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module DataflowNodes (690)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (688)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module DataflowEditor (686)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (684)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module ChaosNiagara (682)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (680)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module FractureEditor (678)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (676)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (674)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module AutomationUtils (672)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module BackChannel (670)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (668)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (666)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module UVEditorTools (664)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module UVEditor (662)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (660)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (658)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (656)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module Paper2DEditor (654)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (652)
+[2025.06.06-08.20.23:660][166]LogModuleManager: Shutting down and abandoning module PluginBrowser (650)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (648)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (646)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (644)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (642)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module EditorDebugTools (640)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module CurveEditorTools (638)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (636)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module CryptoKeys (634)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module ChangelistReview (632)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (630)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (628)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module InterchangeTests (626)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module AlembicImporter (624)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module AlembicLibrary (623)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (620)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module SynthesisEditor (618)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module ResonanceAudio (616)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (614)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (612)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (610)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module ModelingOperators (608)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (606)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module ModelingComponents (604)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module GeometryFramework (603)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (600)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module MeshModelingTools (598)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (596)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module InputDebugging (594)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module DynamicMesh (592)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (590)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module GooglePAD (588)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (586)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module GeometryCache (584)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (582)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (580)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (578)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module AudioCapture (576)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module AudioCaptureWasapi (575)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (572)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module AssetTags (570)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (568)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module AppleImageUtils (566)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module AndroidPermission (564)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module ControlRigSpline (562)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (560)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (558)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (556)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (554)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module ACLPluginEditor (552)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (550)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (546)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (544)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (542)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module InterchangeExport (540)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module InterchangeMessages (538)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module GLTFCore (536)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (534)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (532)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module InterchangeEditor (530)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module TakeSequencer (528)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module TakeMovieScene (526)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (524)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module SequencerScripting (522)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module VariantManager (520)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module TemplateSequence (518)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (516)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (514)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (512)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (510)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module UObjectPlugin (508)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (506)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (504)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module PluginUtils (502)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module N10XSourceCodeAccess (500)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module GitSourceControl (498)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module DumpGPUServices (496)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (494)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (492)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (490)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module MediaPlate (488)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module MediaCompositing (486)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module ImgMedia (484)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (482)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module TraceUtilities (480)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (478)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (476)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module InputEditor (474)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module StructUtils (472)
+[2025.06.06-08.20.23:661][166]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (470)
+[2025.06.06-08.20.23:698][166]LogModuleManager: Shutting down and abandoning module PBIK (468)
+[2025.06.06-08.20.23:698][166]LogModuleManager: Shutting down and abandoning module FullBodyIK (466)
+[2025.06.06-08.20.23:698][166]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (464)
+[2025.06.06-08.20.23:698][166]LogModuleManager: Shutting down and abandoning module TakeRecorder (463)
+[2025.06.06-08.20.23:698][166]LogModuleManager: Shutting down and abandoning module ChaosCaching (460)
+[2025.06.06-08.20.23:698][166]LogModuleManager: Shutting down and abandoning module Paper2D (458)
+[2025.06.06-08.20.23:698][166]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (456)
+[2025.06.06-08.20.23:698][166]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (454)
+[2025.06.06-08.20.23:698][166]LogModuleManager: Shutting down and abandoning module FacialAnimation (452)
+[2025.06.06-08.20.23:698][166]LogModuleManager: Shutting down and abandoning module DataValidation (450)
+[2025.06.06-08.20.23:698][166]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (448)
+[2025.06.06-08.20.23:699][166]LogModuleManager: Shutting down and abandoning module LevelEditor (447)
+[2025.06.06-08.20.23:702][166]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (446)
+[2025.06.06-08.20.23:702][166]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (444)
+[2025.06.06-08.20.23:702][166]LogModuleManager: Shutting down and abandoning module MainFrame (442)
+[2025.06.06-08.20.23:702][166]LogModuleManager: Shutting down and abandoning module HotReload (441)
+[2025.06.06-08.20.23:703][166]LogModuleManager: Shutting down and abandoning module TreeMap (437)
+[2025.06.06-08.20.23:703][166]LogModuleManager: Shutting down and abandoning module Synthesis (434)
+[2025.06.06-08.20.23:703][166]LogModuleManager: Shutting down and abandoning module SignificanceManager (432)
+[2025.06.06-08.20.23:703][166]LogModuleManager: Shutting down and abandoning module SoundFields (430)
+[2025.06.06-08.20.23:703][166]LogModuleManager: Shutting down and abandoning module RigVMDeveloper (428)
+[2025.06.06-08.20.23:703][166]LogModuleManager: Shutting down and abandoning module RigVM (426)
+[2025.06.06-08.20.23:703][166]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (424)
+[2025.06.06-08.20.23:703][166]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (422)
+[2025.06.06-08.20.23:703][166]LogModuleManager: Shutting down and abandoning module MsQuicRuntime (420)
+[2025.06.06-08.20.23:703][166]LogModuleManager: Shutting down and abandoning module MetasoundEditor (418)
+[2025.06.06-08.20.23:703][166]LogModuleManager: Shutting down and abandoning module AudioWidgets (417)
+[2025.06.06-08.20.23:703][166]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (416)
+[2025.06.06-08.20.23:703][166]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (412)
+[2025.06.06-08.20.23:703][166]LogModuleManager: Shutting down and abandoning module MetasoundEngine (410)
+[2025.06.06-08.20.23:703][166]LogModuleManager: Shutting down and abandoning module WaveTable (409)
+[2025.06.06-08.20.23:703][166]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (407)
+[2025.06.06-08.20.23:703][166]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (404)
+[2025.06.06-08.20.23:703][166]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (402)
+[2025.06.06-08.20.23:703][166]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (400)
+[2025.06.06-08.20.23:703][166]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (398)
+[2025.06.06-08.20.23:703][166]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (396)
+[2025.06.06-08.20.23:703][166]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (394)
+[2025.06.06-08.20.23:703][166]LogModuleManager: Shutting down and abandoning module CableComponent (392)
+[2025.06.06-08.20.23:703][166]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (390)
+[2025.06.06-08.20.23:703][166]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (389)
+[2025.06.06-08.20.23:703][166]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (386)
+[2025.06.06-08.20.23:703][166]LogModuleManager: Shutting down and abandoning module UdpMessaging (384)
+[2025.06.06-08.20.23:804][166]LogModuleManager: Shutting down and abandoning module TcpMessaging (382)
+[2025.06.06-08.20.23:905][166]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (380)
+[2025.06.06-08.20.23:905][166]LogModuleManager: Shutting down and abandoning module IKRig (378)
+[2025.06.06-08.20.23:905][166]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (376)
+[2025.06.06-08.20.23:905][166]LogModuleManager: Shutting down and abandoning module ControlRig (374)
+[2025.06.06-08.20.23:905][166]LogModuleManager: Shutting down and abandoning module Constraints (373)
+[2025.06.06-08.20.23:905][166]LogModuleManager: Shutting down and abandoning module AnimationData (370)
+[2025.06.06-08.20.23:905][166]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (368)
+[2025.06.06-08.20.23:905][166]LogModuleManager: Shutting down and abandoning module Niagara (366)
+[2025.06.06-08.20.23:905][166]LogModuleManager: Shutting down and abandoning module SignalProcessing (365)
+[2025.06.06-08.20.23:905][166]LogModuleManager: Shutting down and abandoning module NiagaraEditor (363)
+[2025.06.06-08.20.23:905][166]LogModuleManager: Shutting down and abandoning module LevelSequence (362)
+[2025.06.06-08.20.23:905][166]LogModuleManager: Shutting down and abandoning module ContentBrowser (360)
+[2025.06.06-08.20.23:905][166]LogModuleManager: Shutting down and abandoning module ToolMenus (359)
+[2025.06.06-08.20.23:905][166]LogModuleManager: Shutting down and abandoning module ContentBrowserData (357)
+[2025.06.06-08.20.23:905][166]LogModuleManager: Shutting down and abandoning module NiagaraCore (352)
+[2025.06.06-08.20.23:905][166]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (350)
+[2025.06.06-08.20.23:905][166]LogModuleManager: Shutting down and abandoning module InterchangePipelines (348)
+[2025.06.06-08.20.23:905][166]LogModuleManager: Shutting down and abandoning module InterchangeImport (346)
+[2025.06.06-08.20.23:905][166]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (344)
+[2025.06.06-08.20.23:905][166]LogModuleManager: Shutting down and abandoning module InterchangeNodes (342)
+[2025.06.06-08.20.23:905][166]LogModuleManager: Shutting down and abandoning module GameplayCameras (340)
+[2025.06.06-08.20.23:905][166]LogModuleManager: Shutting down and abandoning module ActorSequence (338)
+[2025.06.06-08.20.23:905][166]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (336)
+[2025.06.06-08.20.23:905][166]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (334)
+[2025.06.06-08.20.23:905][166]LogModuleManager: Shutting down and abandoning module AnimationSharing (332)
+[2025.06.06-08.20.23:905][166]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (330)
+[2025.06.06-08.20.23:905][166]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (328)
+[2025.06.06-08.20.23:905][166]LogModuleManager: Shutting down and abandoning module BlueprintGraph (327)
+[2025.06.06-08.20.23:905][166]LogModuleManager: Shutting down and abandoning module EnhancedInput (324)
+[2025.06.06-08.20.23:905][166]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (322)
+[2025.06.06-08.20.23:909][166]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (320)
+[2025.06.06-08.20.23:909][166]LogModuleManager: Shutting down and abandoning module AndroidFileServer (318)
+[2025.06.06-08.20.23:909][166]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (316)
+[2025.06.06-08.20.23:909][166]LogModuleManager: Shutting down and abandoning module PacketHandler (314)
+[2025.06.06-08.20.23:909][166]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (312)
+[2025.06.06-08.20.23:909][166]LogModuleManager: Shutting down and abandoning module AnimGraph (310)
+[2025.06.06-08.20.23:909][166]LogModuleManager: Shutting down and abandoning module TimeManagement (308)
+[2025.06.06-08.20.23:909][166]LogModuleManager: Shutting down and abandoning module AnimationDataController (306)
+[2025.06.06-08.20.23:909][166]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (304)
+[2025.06.06-08.20.23:909][166]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (302)
+[2025.06.06-08.20.23:909][166]LogModuleManager: Shutting down and abandoning module MediaAssets (300)
+[2025.06.06-08.20.23:909][166]LogModuleManager: Shutting down and abandoning module Overlay (298)
+[2025.06.06-08.20.23:909][166]LogModuleManager: Shutting down and abandoning module OverlayEditor (297)
+[2025.06.06-08.20.23:909][166]LogModuleManager: Shutting down and abandoning module VREditor (294)
+[2025.06.06-08.20.23:909][166]LogModuleManager: Shutting down and abandoning module StringTableEditor (292)
+[2025.06.06-08.20.23:909][166]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (290)
+[2025.06.06-08.20.23:909][166]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (288)
+[2025.06.06-08.20.23:909][166]LogModuleManager: Shutting down and abandoning module FunctionalTesting (286)
+[2025.06.06-08.20.23:909][166]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (284)
+[2025.06.06-08.20.23:909][166]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (283)
+[2025.06.06-08.20.23:909][166]LogModuleManager: Shutting down and abandoning module ScriptableEditorWidgets (280)
+[2025.06.06-08.20.23:909][166]LogModuleManager: Shutting down and abandoning module UMG (278)
+[2025.06.06-08.20.23:909][166]LogModuleManager: Shutting down and abandoning module UMGEditor (277)
+[2025.06.06-08.20.23:909][166]LogModuleManager: Shutting down and abandoning module EditorStyle (272)
+[2025.06.06-08.20.23:909][166]LogModuleManager: Shutting down and abandoning module SlateReflector (270)
+[2025.06.06-08.20.23:909][166]LogModuleManager: Shutting down and abandoning module Slate (268)
+[2025.06.06-08.20.23:909][166]LogModuleManager: Shutting down and abandoning module SlateCore (266)
+[2025.06.06-08.20.23:911][166]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (264)
+[2025.06.06-08.20.23:911][166]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2025.06.06-08.20.23:911][166]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2025.06.06-08.20.23:911][166]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2025.06.06-08.20.23:911][166]LogModuleManager: Shutting down and abandoning module Messaging (256)
+[2025.06.06-08.20.23:911][166]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (254)
+[2025.06.06-08.20.23:911][166]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (252)
+[2025.06.06-08.20.23:911][166]LogModuleManager: Shutting down and abandoning module LiveCoding (250)
+[2025.06.06-08.20.23:923][166]LogModuleManager: Shutting down and abandoning module Networking (248)
+[2025.06.06-08.20.23:923][166]LogModuleManager: Shutting down and abandoning module Core (246)
+[2025.06.06-08.20.23:923][166]LogModuleManager: Shutting down and abandoning module AssetDefinition (244)
+[2025.06.06-08.20.23:923][166]LogModuleManager: Shutting down and abandoning module MovieSceneTools (242)
+[2025.06.06-08.20.23:923][166]LogModuleManager: Shutting down and abandoning module CurveEditor (241)
+[2025.06.06-08.20.23:924][166]LogModuleManager: Shutting down and abandoning module Sequencer (239)
+[2025.06.06-08.20.23:924][166]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2025.06.06-08.20.23:924][166]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2025.06.06-08.20.23:924][166]LogModuleManager: Shutting down and abandoning module NaniteBuilder (232)
+[2025.06.06-08.20.23:924][166]LogModuleManager: Shutting down and abandoning module MeshUtilities (230)
+[2025.06.06-08.20.23:924][166]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (229)
+[2025.06.06-08.20.23:924][166]LogModuleManager: Shutting down and abandoning module StaticMeshDescription (228)
+[2025.06.06-08.20.23:924][166]LogModuleManager: Shutting down and abandoning module GeometryProcessingInterfaces (227)
+[2025.06.06-08.20.23:924][166]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (224)
+[2025.06.06-08.20.23:924][166]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (223)
+[2025.06.06-08.20.23:924][166]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (221)
+[2025.06.06-08.20.23:924][166]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (219)
+[2025.06.06-08.20.23:924][166]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (217)
+[2025.06.06-08.20.23:924][166]LogModuleManager: Shutting down and abandoning module MaterialBaking (213)
+[2025.06.06-08.20.23:924][166]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (210)
+[2025.06.06-08.20.23:935][166]LogModuleManager: Shutting down and abandoning module TelemetryUtils (207)
+[2025.06.06-08.20.23:935][166]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (204)
+[2025.06.06-08.20.23:935][166]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (202)
+[2025.06.06-08.20.23:935][166]LogModuleManager: Shutting down and abandoning module DerivedDataCache (200)
+[2025.06.06-08.20.23:939][166]LogModuleManager: Shutting down and abandoning module TargetPlatform (198)
+[2025.06.06-08.20.23:939][166]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (197)
+[2025.06.06-08.20.23:939][166]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (195)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (193)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (191)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (189)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module AudioFormatBINK (187)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (185)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (183)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (181)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (179)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (177)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (175)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (173)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (171)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (169)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (167)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module TextureFormat (165)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module ImageWrapper (164)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (162)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (160)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (158)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (156)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (154)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (152)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module TurnkeySupport (149)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module InputCore (146)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module Settings (144)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (142)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (140)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (139)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module Chaos (136)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module GeometryCore (135)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (132)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (131)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module AVEncoder (130)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module D3D12RHI (126)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module ChaosCloth (124)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (122)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (120)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module ChunkDownloader (118)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (116)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module ACLPlugin (114)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (112)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module NiagaraShader (110)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (108)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (106)
+[2025.06.06-08.20.23:940][166]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (104)
+[2025.06.06-08.20.23:943][166]LogModuleManager: Shutting down and abandoning module XMPP (99)
+[2025.06.06-08.20.23:943][166]LogModuleManager: Shutting down and abandoning module WebSockets (98)
+[2025.06.06-08.20.23:953][166]LogModuleManager: Shutting down and abandoning module HTTP (95)
+[2025.06.06-08.20.23:953][166]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.06.06-08.20.23:953][166]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0CA79024-4B07-688B-6AAB-F2AED2F9F2B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=1fcf096e4ad3d55643b31fa0b2a8c77f%7C4b3d8d84c65f4a8ca0f7b524eb57d9fb%7C182cc663-9737-491e-810c-8140ecffe2ea&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2025.06.06-08.20.23:955][166]LogModuleManager: Shutting down and abandoning module SSL (94)
+[2025.06.06-08.20.23:956][166]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (90)
+[2025.06.06-08.20.23:956][166]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (88)
+[2025.06.06-08.20.23:956][166]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (86)
+[2025.06.06-08.20.23:956][166]LogModuleManager: Shutting down and abandoning module EOSShared (84)
+[2025.06.06-08.20.24:469][166]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.06.06-08.20.24:469][166]LogModuleManager: Shutting down and abandoning module AISupportModule (82)
+[2025.06.06-08.20.24:469][166]LogModuleManager: Shutting down and abandoning module VariantManagerContent (80)
+[2025.06.06-08.20.24:469][166]LogModuleManager: Shutting down and abandoning module GLTFExporter (78)
+[2025.06.06-08.20.24:469][166]LogModuleManager: Shutting down and abandoning module DatasmithContent (76)
+[2025.06.06-08.20.24:469][166]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (74)
+[2025.06.06-08.20.24:469][166]RenderDocPlugin: plugin has been unloaded.
+[2025.06.06-08.20.24:469][166]LogModuleManager: Shutting down and abandoning module PixWinPlugin (72)
+[2025.06.06-08.20.24:469][166]LogModuleManager: Shutting down and abandoning module WmfMedia (70)
+[2025.06.06-08.20.24:471][166]LogModuleManager: Shutting down and abandoning module Media (69)
+[2025.06.06-08.20.24:472][166]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2025.06.06-08.20.24:472][166]LogModuleManager: Shutting down and abandoning module DesktopPlatform (64)
+[2025.06.06-08.20.24:472][166]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (62)
+[2025.06.06-08.20.24:472][166]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (60)
+[2025.06.06-08.20.24:472][166]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (58)
+[2025.06.06-08.20.24:472][166]LogModuleManager: Shutting down and abandoning module PlatformCrypto (56)
+[2025.06.06-08.20.24:472][166]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (54)
+[2025.06.06-08.20.24:472][166]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (52)
+[2025.06.06-08.20.24:472][166]LogModuleManager: Shutting down and abandoning module SourceControl (51)
+[2025.06.06-08.20.24:472][166]LogModuleManager: Shutting down and abandoning module XGEController (48)
+[2025.06.06-08.20.24:472][166]LogModuleManager: Shutting down and abandoning module FastBuildController (46)
+[2025.06.06-08.20.24:472][166]LogModuleManager: Shutting down and abandoning module IoStoreOnDemand (44)
+[2025.06.06-08.20.24:472][166]LogModuleManager: Shutting down and abandoning module AnimationModifiers (42)
+[2025.06.06-08.20.24:472][166]LogModuleManager: Shutting down and abandoning module AudioEditor (40)
+[2025.06.06-08.20.24:472][166]LogModuleManager: Shutting down and abandoning module PropertyEditor (39)
+[2025.06.06-08.20.24:473][166]LogModuleManager: Shutting down and abandoning module Virtualization (36)
+[2025.06.06-08.20.24:473][166]LogModuleManager: Shutting down and abandoning module MessageLog (35)
+[2025.06.06-08.20.24:473][166]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2025.06.06-08.20.24:473][166]LogModuleManager: Shutting down and abandoning module OpenColorIOWrapper (31)
+[2025.06.06-08.20.24:473][166]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2025.06.06-08.20.24:473][166]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2025.06.06-08.20.24:473][166]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2025.06.06-08.20.24:474][166]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2025.06.06-08.20.24:474][166]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2025.06.06-08.20.24:474][166]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2025.06.06-08.20.24:474][166]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2025.06.06-08.20.24:474][166]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2025.06.06-08.20.24:474][166]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2025.06.06-08.20.24:474][166]LogPakFile: Destroying PakPlatformFile
+[2025.06.06-08.20.24:474][166]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2025.06.06-08.20.24:474][166]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2025.06.06-08.20.24:474][166]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2025.06.06-08.20.24:474][166]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2025.06.06-08.20.24:474][166]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2025.06.06-08.20.24:790][166]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.06.06-08.20.24:835][166]LogExit: Exiting.
+[2025.06.06-08.20.24:866][166]Log file closed, 06/06/25 10:20:24
